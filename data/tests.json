@@ -1,0 +1,6202 @@
+[
+ {
+  "id": "cpt1",
+  "title": "NHA CPT Practice Exam #1",
+  "subtitle": "Full-Length Practice Test",
+  "free": true,
+  "sections": [
+   {
+    "name": "Domain 1  •  Safety and Compliance",
+    "questions": [
+     {
+      "n": 1,
+      "stem": "Which piece of personal protective equipment (PPE) is required for every venipuncture?",
+      "options": [
+       "Face shield",
+       "Gown",
+       "Gloves",
+       "N95 respirator"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 2,
+      "stem": "OSHA is the federal agency primarily responsible for regulating:",
+      "options": [
+       "Workplace safety",
+       "Laboratory test menus",
+       "Phlebotomy certification",
+       "Insurance billing"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 3,
+      "stem": "Immediately after sustaining an accidental needlestick, the phlebotomist's first action should be to:",
+      "options": [
+       "Finish collecting the specimen",
+       "Apply a bandage and continue working",
+       "Report the incident to a supervisor",
+       "Wash the site thoroughly with soap and water"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 4,
+      "stem": "A sharps container should be replaced when it is:",
+      "options": [
+       "Overflowing",
+       "Two-thirds to three-quarters full",
+       "Emptied weekly regardless of level",
+       "Completely full to the lid"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 5,
+      "stem": "HIPAA regulations exist primarily to protect:",
+      "options": [
+       "Employee wages",
+       "Patient health information",
+       "Laboratory equipment",
+       "Hospital finances"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 6,
+      "stem": "What is the correct sequence for donning (putting on) PPE?",
+      "options": [
+       "Gown, mask, goggles, gloves",
+       "Gloves, gown, mask, goggles",
+       "Mask, gloves, gown, goggles",
+       "Goggles, gloves, gown, mask"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 7,
+      "stem": "The Bloodborne Pathogens Standard is written and enforced by:",
+      "options": [
+       "CLIA",
+       "CAP",
+       "OSHA",
+       "FDA"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 8,
+      "stem": "The Needlestick Safety and Prevention Act requires employers to provide:",
+      "options": [
+       "Reusable needles",
+       "Safety-engineered sharps devices",
+       "Glass collection tubes",
+       "Two-handed needle recapping"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 9,
+      "stem": "An alcohol-based hand rub is NOT adequate for hand hygiene when the hands are:",
+      "options": [
+       "Dry",
+       "Warm",
+       "Visibly soiled",
+       "Recently gloved"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 10,
+      "stem": "A patient with active tuberculosis requires which type of transmission-based precaution?",
+      "options": [
+       "Contact",
+       "Standard only",
+       "Droplet",
+       "Airborne"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 11,
+      "stem": "The single most effective way to prevent the spread of infection is:",
+      "options": [
+       "Proper hand hygiene",
+       "Wearing gloves",
+       "Wearing a gown",
+       "Wearing a mask"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 12,
+      "stem": "A blood spill on a counter should be decontaminated with:",
+      "options": [
+       "Plain water",
+       "Hand soap only",
+       "A 1:10 bleach solution or EPA-registered disinfectant",
+       "Isopropyl alcohol wipe"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 13,
+      "stem": "Which regulation governs the quality and standards of clinical laboratory testing?",
+      "options": [
+       "CLIA",
+       "OSHA",
+       "NIOSH",
+       "FDA"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 14,
+      "stem": "Which document must be provided to patients explaining how their health information is used?",
+      "options": [
+       "The requisition form",
+       "The Notice of Privacy Practices",
+       "The chain-of-custody form",
+       "An incident report"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 15,
+      "stem": "Which action is OUTSIDE a phlebotomist's scope of practice?",
+      "options": [
+       "Collecting a blood specimen",
+       "Labeling specimens",
+       "Interpreting/diagnosing test results for the patient",
+       "Applying a tourniquet"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 16,
+      "stem": "A patient becomes pale and faints (syncope) during a draw. The phlebotomist should first:",
+      "options": [
+       "Continue the draw quickly",
+       "Remove the tourniquet and needle and protect the patient from injury",
+       "Offer the patient water",
+       "Leave the room to get help"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 17,
+      "stem": "When doffing (removing) PPE, which item is generally removed first?",
+      "options": [
+       "Gloves",
+       "Gown",
+       "Mask",
+       "Goggles"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 18,
+      "stem": "Regulated medical (biohazard) waste is placed in a bag that is:",
+      "options": [
+       "Blue",
+       "Clear",
+       "Black",
+       "Red or orange with a biohazard symbol"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 19,
+      "stem": "NIOSH is best described as the agency that:",
+      "options": [
+       "Conducts research and makes recommendations on occupational safety and health",
+       "Certifies phlebotomists",
+       "Processes insurance claims",
+       "Approves laboratory test menus"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 20,
+      "stem": "If blood splashes into the phlebotomist's eye, the immediate step is to:",
+      "options": [
+       "Flush the eye at an eyewash station for at least 15 minutes",
+       "Rub the eye to remove the blood",
+       "Apply a bandage over the eye",
+       "Report the exposure and finish the shift"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 21,
+      "stem": "Quality control (QC) on a point-of-care glucose meter should be performed:",
+      "options": [
+       "Never",
+       "According to the manufacturer's and facility's schedule",
+       "Only once a month",
+       "Only when a result looks unusual"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 22,
+      "stem": "The Joint Commission is best known for:",
+      "options": [
+       "Issuing OSHA fines",
+       "Accrediting healthcare organizations",
+       "Manufacturing needles",
+       "Issuing CPR certification cards"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 23,
+      "stem": "Maintaining patient confidentiality means a phlebotomist should:",
+      "options": [
+       "Discuss patients in the elevator",
+       "Share results with the patient's family",
+       "Keep patient information private and secure",
+       "Post interesting cases on social media"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 24,
+      "stem": "A contaminated needle should be:",
+      "options": [
+       "Recapped by hand",
+       "Broken off the hub",
+       "Have its safety device activated, then placed in a sharps container",
+       "Left on the collection tray"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 25,
+      "stem": "Which of the following is an example of a required quality-control log?",
+      "options": [
+       "Refrigerator/freezer temperature log",
+       "Room lighting log",
+       "Patient weight log",
+       "Staff attendance log"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 26,
+      "stem": "In fire safety, the acronym RACE stands for:",
+      "options": [
+       "Rescue, Alarm, Confine, Extinguish",
+       "Run, Alarm, Call, Exit",
+       "Rescue, Alert, Cover, Evacuate",
+       "Ready, Aim, Contain, End"
+      ],
+      "answer": "A"
+     }
+    ]
+   },
+   {
+    "name": "Domain 2  •  Patient Preparation",
+    "questions": [
+     {
+      "n": 27,
+      "stem": "Which pair represents two acceptable patient identifiers?",
+      "options": [
+       "Full name and date of birth",
+       "Name and room number",
+       "Diagnosis and physician name",
+       "Bed number and age"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 28,
+      "stem": "The best way to confirm the identity of a conscious inpatient is to:",
+      "options": [
+       "Ask “Are you Mr. Doe?” and see if he says yes",
+       "Check the room number on the door",
+       "Have the patient state name and DOB, then match to the ID band and requisition",
+       "Ask the nurse who the patient is"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 29,
+      "stem": "A routine fasting specimen typically requires the patient to abstain from food for:",
+      "options": [
+       "24 hours",
+       "8 to 12 hours",
+       "2 hours",
+       "1 hour"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 30,
+      "stem": "A test order marked STAT should be treated as:",
+      "options": [
+       "A routine draw",
+       "A timed draw",
+       "A fasting draw",
+       "Urgent, to be collected immediately"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 31,
+      "stem": "Implied consent for a blood draw is demonstrated when the patient:",
+      "options": [
+       "Extends the arm and cooperates with the procedure",
+       "Signs a written consent form",
+       "Has a guardian sign for them",
+       "Verbally says “yes”"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 32,
+      "stem": "For a 6-year-old pediatric patient, consent must be obtained from:",
+      "options": [
+       "The child",
+       "The attending nurse",
+       "The parent or legal guardian",
+       "No one is required"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 33,
+      "stem": "A patient states they are allergic to adhesive bandages. The phlebotomist should:",
+      "options": [
+       "Use paper tape or a self-adhering gauze wrap instead",
+       "Use the adhesive bandage anyway",
+       "Skip bandaging entirely",
+       "Refuse to collect the specimen"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 34,
+      "stem": "Before drawing, the requisition should be reviewed to confirm:",
+      "options": [
+       "The weather forecast",
+       "Patient name, date of birth, and tests ordered",
+       "The staffing schedule",
+       "Parking availability"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 35,
+      "stem": "When communicating with a hearing-impaired patient, the best practice is to:",
+      "options": [
+       "Shout the same phrase repeatedly",
+       "Speak very quickly to finish sooner",
+       "Ignore the impairment and proceed",
+       "Face the patient, speak clearly, and use written communication as needed"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 36,
+      "stem": "A patient is chewing gum before a fasting glucose draw. This:",
+      "options": [
+       "May affect results and should be noted/addressed",
+       "Has no effect on the specimen",
+       "Always requires the order to be cancelled",
+       "Is completely acceptable during fasting"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 37,
+      "stem": "The term “basal state” refers to a patient who is:",
+      "options": [
+       "Immediately post-exercise",
+       "At rest, fasting ~12 hours, typically early morning",
+       "Just finished eating",
+       "Recovering from surgery"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 38,
+      "stem": "When introducing yourself to a patient, you should state your:",
+      "options": [
+       "Salary",
+       "Home address",
+       "Name and title/department",
+       "Nothing; just begin"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 39,
+      "stem": "The proper position for an outpatient venipuncture is:",
+      "options": [
+       "Seated in a phlebotomy chair with the arm supported",
+       "Standing at the counter",
+       "Walking slowly",
+       "Lying on the floor"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 40,
+      "stem": "If a competent adult patient refuses the blood draw, the phlebotomist should:",
+      "options": [
+       "Perform the draw anyway",
+       "Respect the refusal, notify the nurse/provider, and document it",
+       "Sedate the patient",
+       "Ignore the refusal"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 41,
+      "stem": "A patient reports a history of fainting during blood draws. The safest approach is to:",
+      "options": [
+       "Draw with the patient standing",
+       "Skip the draw",
+       "Proceed exactly as with any patient",
+       "Have the patient recline/lie down for the draw"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 42,
+      "stem": "Which action would VIOLATE HIPAA?",
+      "options": [
+       "Verifying the patient's date of birth",
+       "Announcing a patient's diagnosis aloud in a crowded waiting room",
+       "Checking the ID band",
+       "Asking the patient to state their name"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 43,
+      "stem": "A timed specimen (e.g., a 2-hour glucose) must be collected:",
+      "options": [
+       "Whenever it is convenient",
+       "Only when fasting",
+       "At the specified time",
+       "The following day"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 44,
+      "stem": "For a patient who does not speak English, best practice is to:",
+      "options": [
+       "Use a qualified interpreter or language service",
+       "Guess at what the patient means",
+       "Skip the explanation",
+       "Rely only on hand signals"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 45,
+      "stem": "Before collecting a lipid panel, the phlebotomist should verify:",
+      "options": [
+       "The patient's insurance company",
+       "The room temperature",
+       "The needle gauge",
+       "Whether the patient actually fasted"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 46,
+      "stem": "Clearly explaining the procedure to a nervous patient primarily helps to:",
+      "options": [
+       "Waste time",
+       "Reduce anxiety and gain cooperation",
+       "Violate patient privacy",
+       "Delay the collection unnecessarily"
+      ],
+      "answer": "B"
+     }
+    ]
+   },
+   {
+    "name": "Domain 3  •  Routine Blood Collections",
+    "questions": [
+     {
+      "n": 47,
+      "stem": "In the CLSI order of draw, which is collected FIRST?",
+      "options": [
+       "Lavender (EDTA) tube",
+       "Blood culture bottle",
+       "Gray tube",
+       "Green tube"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 48,
+      "stem": "The additive in a light-blue-stopper tube is:",
+      "options": [
+       "EDTA",
+       "Heparin",
+       "No additive",
+       "Sodium citrate"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 49,
+      "stem": "A lavender (EDTA) tube is most commonly used for a:",
+      "options": [
+       "Coagulation panel",
+       "Fasting glucose",
+       "Complete blood count (CBC)",
+       "Serum chemistry"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 50,
+      "stem": "Which tube is used for coagulation studies (PT/PTT)?",
+      "options": [
+       "Light blue",
+       "Red",
+       "Green",
+       "Gray"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 51,
+      "stem": "A tourniquet should not remain on the arm for longer than:",
+      "options": [
+       "1 minute",
+       "5 minutes",
+       "3 minutes",
+       "10 minutes"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 52,
+      "stem": "The recommended needle insertion angle for a routine antecubital venipuncture is:",
+      "options": [
+       "45 degrees",
+       "60 degrees",
+       "90 degrees",
+       "30 degrees or less"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 53,
+      "stem": "The preferred first-choice vein in the antecubital area is the:",
+      "options": [
+       "Basilic vein",
+       "Cephalic vein only",
+       "Any visible vein",
+       "Median cubital vein"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 54,
+      "stem": "The antiseptic used for a routine venipuncture is:",
+      "options": [
+       "70% isopropyl alcohol",
+       "Sterile water",
+       "Povidone-iodine",
+       "Bleach"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 55,
+      "stem": "The additive found in a gray-stopper tube (used for glucose) is:",
+      "options": [
+       "EDTA",
+       "Sodium fluoride / potassium oxalate",
+       "Sodium citrate",
+       "Heparin"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 56,
+      "stem": "Which tube must be filled to the correct 9:1 blood-to-additive ratio or the results are invalid?",
+      "options": [
+       "Red",
+       "Lavender",
+       "Green",
+       "Light blue (citrate)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 57,
+      "stem": "If blood flow stops mid-draw, an appropriate adjustment is to:",
+      "options": [
+       "Probe aggressively for the vein",
+       "Immediately abandon the attempt",
+       "Slightly reposition the needle or change the tube",
+       "Push the needle in much deeper with force"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 58,
+      "stem": "If a hematoma begins to form during the draw, the phlebotomist should:",
+      "options": [
+       "Continue the draw",
+       "Remove the needle and apply pressure",
+       "Increase the needle angle",
+       "Ignore it"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 59,
+      "stem": "The proper number of gentle inversions for an EDTA (lavender) tube is:",
+      "options": [
+       "0",
+       "Vigorously shake 20 times",
+       "1",
+       "8 to 10 gentle inversions"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 60,
+      "stem": "The order of draw exists primarily to prevent:",
+      "options": [
+       "Patient pain",
+       "Tube breakage",
+       "Hemolysis only",
+       "Additive carryover / cross-contamination between tubes"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 61,
+      "stem": "The most commonly used needle gauge for routine adult venipuncture is:",
+      "options": [
+       "16",
+       "21",
+       "25",
+       "30"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 62,
+      "stem": "A winged (butterfly) collection set is especially useful for:",
+      "options": [
+       "Large, prominent veins",
+       "Arterial punctures",
+       "Small, fragile, or hand veins",
+       "Patients with no accessible veins"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 63,
+      "stem": "Hemolysis of a specimen can be caused by:",
+      "options": [
+       "Gentle mixing",
+       "Vigorous shaking or forcing blood through a very small needle",
+       "Correct tube fill",
+       "Proper technique"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 64,
+      "stem": "Immediately after withdrawing the needle, the phlebotomist should:",
+      "options": [
+       "Reapply the tourniquet",
+       "Do nothing",
+       "Label the tubes",
+       "Engage the needle safety device"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 65,
+      "stem": "After applying alcohol to the site, the phlebotomist should:",
+      "options": [
+       "Wipe it off immediately",
+       "Allow it to air dry",
+       "Fan it with the hand",
+       "Blow on it to dry it"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 66,
+      "stem": "A vein is anchored by:",
+      "options": [
+       "Pressing firmly above the site",
+       "Having the patient squeeze the hand",
+       "It does not need anchoring",
+       "Pulling the skin taut just below the site with the thumb"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 67,
+      "stem": "An appropriate site for an adult capillary (dermal) puncture is the:",
+      "options": [
+       "Center of the fingertip",
+       "Thumb",
+       "Side of the middle or ring fingertip",
+       "Center of the index finger"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 68,
+      "stem": "In capillary collection, which specimen is collected FIRST in the order of draw?",
+      "options": [
+       "EDTA / hematology (lavender) specimen",
+       "Serum specimen",
+       "Gray tube",
+       "Light blue tube"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 69,
+      "stem": "For a heel stick on an infant, the correct puncture location is the:",
+      "options": [
+       "Center of the heel",
+       "Arch of the foot",
+       "Medial or lateral plantar surface of the heel",
+       "Big toe"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 70,
+      "stem": "When transferring blood from a syringe into tubes, the phlebotomist must still follow:",
+      "options": [
+       "Any convenient order",
+       "The standard order of draw",
+       "Reverse order of draw",
+       "Gray tubes first"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 71,
+      "stem": "Proper site preparation for a routine draw involves cleaning:",
+      "options": [
+       "In a circular or back-and-forth motion, then allowing it to air dry",
+       "No cleaning is needed",
+       "By reusing the same gauze",
+       "By licking the area"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 72,
+      "stem": "If a patient has an IV running in one arm, the phlebotomist should draw from:",
+      "options": [
+       "Just above the IV",
+       "Through the IV line",
+       "The opposite arm",
+       "Just below the IV"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 73,
+      "stem": "Petechiae (small red spots) appearing after tourniquet application may indicate:",
+      "options": [
+       "An infection",
+       "An allergy",
+       "Capillary fragility or a bleeding tendency",
+       "That the patient has fasted"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 74,
+      "stem": "Appropriate post-draw patient care includes:",
+      "options": [
+       "Confirming bleeding has stopped, then bandaging",
+       "Rubbing the site vigorously",
+       "Doing nothing",
+       "Removing pressure immediately"
+      ],
+      "answer": "A"
+     }
+    ]
+   },
+   {
+    "name": "Domain 4  •  Special Collections",
+    "questions": [
+     {
+      "n": 75,
+      "stem": "Skin preparation for a blood culture collection requires:",
+      "options": [
+       "Alcohol wipe only",
+       "Sterile water",
+       "Chlorhexidine or povidone-iodine aseptic prep",
+       "No preparation"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 76,
+      "stem": "Blood cultures are collected primarily to detect:",
+      "options": [
+       "Glucose levels",
+       "Cholesterol",
+       "Coagulation factors",
+       "Microorganisms (bacteria) in the blood"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 77,
+      "stem": "In the order of draw, blood culture bottles are collected:",
+      "options": [
+       "Last",
+       "First",
+       "In the middle",
+       "They are never part of the order"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 78,
+      "stem": "A newborn metabolic screen (e.g., PKU) is collected on:",
+      "options": [
+       "Filter paper (blood spot card)",
+       "An EDTA tube",
+       "A gray tube",
+       "A syringe"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 79,
+      "stem": "A 2-hour postprandial glucose specimen is collected:",
+      "options": [
+       "While fasting",
+       "At any random time",
+       "2 hours after a meal",
+       "At bedtime"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 80,
+      "stem": "During a glucose tolerance test (GTT), the fasting sample is drawn:",
+      "options": [
+       "After the glucose drink",
+       "Before the patient drinks the glucose solution",
+       "It is skipped",
+       "2 hours after the drink only"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 81,
+      "stem": "Which is an example of point-of-care testing (POCT)?",
+      "options": [
+       "A bedside glucose meter reading",
+       "A send-out CBC",
+       "Centrifuging a tube",
+       "A blood bank crossmatch"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 82,
+      "stem": "Site preparation for a legal blood alcohol (ethanol) collection must use:",
+      "options": [
+       "Isopropyl alcohol",
+       "Bleach",
+       "No antiseptic",
+       "A non-alcohol antiseptic (e.g., povidone-iodine or benzalkonium)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 83,
+      "stem": "Chain of custody documentation is required for:",
+      "options": [
+       "A routine CBC",
+       "A fasting glucose",
+       "Forensic and legal (e.g., drug/alcohol) specimens",
+       "A lipid panel"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 84,
+      "stem": "A key concern when drawing blood from a pediatric patient is:",
+      "options": [
+       "Limiting the volume drawn to avoid iatrogenic anemia",
+       "Drawing as much volume as possible",
+       "Requiring fasting",
+       "Having the child stand"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 85,
+      "stem": "Before a blood donation, the donor must first pass:",
+      "options": [
+       "No requirements",
+       "A screening including hemoglobin, weight, and health history",
+       "A fasting glucose test",
+       "A coagulation panel"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 86,
+      "stem": "A nasopharyngeal swab is classified as a:",
+      "options": [
+       "Blood specimen",
+       "Capillary specimen",
+       "Arterial specimen",
+       "Non-blood specimen"
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Domain 5  •  Processing",
+    "questions": [
+     {
+      "n": 87,
+      "stem": "Centrifuging a specimen serves to:",
+      "options": [
+       "Separate plasma or serum from the cellular components",
+       "Sort tubes by stopper color",
+       "Sterilize needles",
+       "Do nothing to the specimen"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 88,
+      "stem": "Before it can be centrifuged, a serum specimen must first be allowed to:",
+      "options": [
+       "Freeze",
+       "Be shaken",
+       "Clot (approximately 30 minutes)",
+       "Refrigerate for 2 hours"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 89,
+      "stem": "“Aliquoting” a specimen means:",
+      "options": [
+       "Labeling it",
+       "Centrifuging it",
+       "Discarding it",
+       "Transferring portions into separate labeled tubes"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 90,
+      "stem": "A light-sensitive specimen (e.g., bilirubin) should be:",
+      "options": [
+       "Left in direct sunlight",
+       "Protected from light (amber tube or foil wrap)",
+       "Frozen only",
+       "Shaken continuously"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 91,
+      "stem": "Which specimen typically requires chilled transport?",
+      "options": [
+       "Glucose",
+       "CBC",
+       "Ammonia, lactic acid, or arterial blood gas",
+       "Lipid panel"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 92,
+      "stem": "A centrifuge must be balanced by:",
+      "options": [
+       "Placing a single tube inside",
+       "Placing tubes of equal volume directly opposite each other",
+       "Loading tubes randomly",
+       "Stacking tubes on top of each other"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 93,
+      "stem": "How long should most serum tubes be allowed to clot before centrifuging?",
+      "options": [
+       "Approximately 30 minutes",
+       "5 minutes",
+       "2 hours",
+       "Immediately, no wait"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 94,
+      "stem": "Chain of custody documentation tracks:",
+      "options": [
+       "The tube stopper color",
+       "The cost of the test",
+       "The weather during transport",
+       "Every person who handled the specimen"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 95,
+      "stem": "Hemolysis most significantly falsely elevates which analyte?",
+      "options": [
+       "Potassium (K+)",
+       "Sodium",
+       "Glucose",
+       "pH"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 96,
+      "stem": "Specimens should be transported in a:",
+      "options": [
+       "Open tray",
+       "Shirt pocket",
+       "Sealed biohazard transport bag",
+       "Bare hand"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 97,
+      "stem": "A critical value result should be:",
+      "options": [
+       "Ignored",
+       "Reported immediately to the ordering provider",
+       "Mailed to the patient",
+       "Filed for later review"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 98,
+      "stem": "If an EDTA specimen is rejected because it contains clots, the phlebotomist should:",
+      "options": [
+       "Run it anyway",
+       "Recollect a new sample",
+       "Shake it to break up the clots",
+       "Dilute the specimen"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 99,
+      "stem": "Frozen plasma for certain coagulation tests should be:",
+      "options": [
+       "Thawed slowly at room temperature over several days",
+       "Boiled before testing",
+       "Left out on the counter",
+       "Kept frozen until testing, per protocol"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 100,
+      "stem": "Specimen tubes must be labeled:",
+      "options": [
+       "The next day",
+       "At the patient's side, immediately after collection",
+       "After returning to the lab",
+       "Before the specimen is collected"
+      ],
+      "answer": "B"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cpt2",
+  "title": "NHA CPT Practice Exam #2",
+  "subtitle": "All-New Questions",
+  "free": false,
+  "sections": [
+   {
+    "name": "Domain 1  •  Safety and Compliance",
+    "questions": [
+     {
+      "n": 1,
+      "stem": "Standard Precautions are based on the principle that:",
+      "options": [
+       "Only patients with a known diagnosis are infectious",
+       "Hand hygiene is optional when gloves are worn",
+       "All blood and body fluids should be treated as potentially infectious",
+       "Gloves alone prevent all exposures"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 2,
+      "stem": "The best glove choice for a phlebotomist or patient with a latex allergy is:",
+      "options": [
+       "Powdered latex gloves",
+       "No gloves at all",
+       "Sterile latex gloves",
+       "Nitrile gloves"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 3,
+      "stem": "In fire safety, the acronym PASS refers to how to use a:",
+      "options": [
+       "Sharps container",
+       "Chemical spill kit",
+       "Fire extinguisher (Pull, Aim, Squeeze, Sweep)",
+       "Patient evacuation route"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 4,
+      "stem": "A Safety Data Sheet (SDS) is required by OSHA to provide information about:",
+      "options": [
+       "Hazardous chemical handling, storage, and first aid",
+       "Patient test results",
+       "Equipment warranty terms",
+       "Employee work schedules"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 5,
+      "stem": "Hand hygiene should be performed:",
+      "options": [
+       "Only before eating lunch",
+       "Only when the hands look dirty",
+       "Before and after every patient contact and after removing gloves",
+       "Once at the start of the shift"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 6,
+      "stem": "A patient on airborne precautions (e.g., active TB) requires the phlebotomist to wear a:",
+      "options": [
+       "Surgical mask only",
+       "Fit-tested N95 respirator",
+       "Face shield only",
+       "No special respiratory protection"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 7,
+      "stem": "The safety feature on a needle should be activated:",
+      "options": [
+       "After recapping the needle by hand",
+       "Immediately after the needle is withdrawn, before disposal",
+       "Only for known-infectious patients",
+       "The next morning"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 8,
+      "stem": "Which is an example of an engineering control?",
+      "options": [
+       "Wearing a gown",
+       "A self-sheathing (retractable) needle",
+       "A hand-hygiene policy",
+       "Annual safety training"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 9,
+      "stem": "An accidental blood exposure or needlestick must be reported:",
+      "options": [
+       "Within 90 days",
+       "At the annual performance review",
+       "Immediately, as soon as possible",
+       "Only if the patient tests positive"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 10,
+      "stem": "OSHA's Bloodborne Pathogens Standard requires employers to offer which vaccine free of charge?",
+      "options": [
+       "Tetanus",
+       "Hepatitis B",
+       "Measles",
+       "Influenza"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 11,
+      "stem": "Under HIPAA, the “minimum necessary” rule means:",
+      "options": [
+       "Deleting old patient records",
+       "Sharing records with any coworker",
+       "Accessing only the protected health information needed to perform your job",
+       "Printing every chart for reference"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 12,
+      "stem": "A sharps container should be:",
+      "options": [
+       "A clear plastic zip bag",
+       "Made of cardboard",
+       "Puncture-resistant, leak-proof, and labeled with a biohazard symbol",
+       "Emptied and reused between patients"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 13,
+      "stem": "Which is a CLIA-waived point-of-care test?",
+      "options": [
+       "Manual WBC differential",
+       "Urine dipstick analysis",
+       "Blood culture",
+       "Type and crossmatch"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 14,
+      "stem": "Which statement about gloves is correct?",
+      "options": [
+       "One pair can be worn the entire shift",
+       "They eliminate the need for hand hygiene",
+       "They are optional for venipuncture",
+       "They must be changed between every patient"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 15,
+      "stem": "A chemical or biohazard spill should be handled by first:",
+      "options": [
+       "Wiping it up with a bare hand",
+       "Mixing it with another chemical",
+       "Alerting others and following the facility spill/SDS protocol",
+       "Ignoring it until later"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 16,
+      "stem": "The Patient's Bill of Rights guarantees a patient the right to:",
+      "options": [
+       "Receive care only from unlicensed staff",
+       "Refuse a treatment or procedure",
+       "Avoid all billing",
+       "Alter their own medical record"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 17,
+      "stem": "Using proper body mechanics when lifting or reaching primarily helps prevent:",
+      "options": [
+       "Musculoskeletal injury to the phlebotomist",
+       "Specimen hemolysis",
+       "Needlestick injury",
+       "Clotting of the specimen"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 18,
+      "stem": "Which is the correct order for removing (doffing) PPE?",
+      "options": [
+       "Gloves, gown, mask, goggles",
+       "Gloves, goggles/face shield, gown, then mask",
+       "Mask, gown, gloves, goggles",
+       "Gown, gloves, mask, goggles"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 19,
+      "stem": "The contact time for a surface disinfectant is:",
+      "options": [
+       "Not important",
+       "Only relevant overnight",
+       "Specified by the manufacturer (the surface must stay wet for that time)",
+       "Always exactly five seconds"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 20,
+      "stem": "A phlebotomist finds an unlabeled chemical bottle. The best action is to:",
+      "options": [
+       "Taste a small amount to identify it",
+       "Guess the contents and use it",
+       "Not use it and report it so it can be labeled or discarded per policy",
+       "Pour it down the sink"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 21,
+      "stem": "Among bloodborne pathogens, the greatest risk of transmission from a needlestick is generally:",
+      "options": [
+       "Hepatitis B virus",
+       "E. coli",
+       "Tuberculosis",
+       "The common cold"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 22,
+      "stem": "Which is an example of proper professional behavior?",
+      "options": [
+       "Maintaining punctuality, integrity, and patient confidentiality",
+       "Discussing patients on social media",
+       "Skipping patient identification",
+       "Routinely arriving late"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 23,
+      "stem": "Regulated medical waste includes:",
+      "options": [
+       "Empty paper wrappers",
+       "Disposable coffee cups",
+       "Items saturated or dripping with blood or other potentially infectious material",
+       "Clean, unused exam gowns"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 24,
+      "stem": "Quality assurance in the laboratory is best described as:",
+      "options": [
+       "Ordering new supplies",
+       "A comprehensive program to ensure quality throughout the total testing process",
+       "A single daily control run",
+       "Cleaning the laboratory floor"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 25,
+      "stem": "The Joint Commission and CAP are organizations that:",
+      "options": [
+       "Accredit healthcare facilities and laboratories",
+       "Pay for laboratory testing",
+       "Certify individual phlebotomists only",
+       "Manufacture collection tubes"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 26,
+      "stem": "If a patient begins to have a seizure during a draw, the phlebotomist should:",
+      "options": [
+       "Continue the draw quickly",
+       "Restrain the patient tightly",
+       "Place an object in the patient's mouth",
+       "Remove the needle, protect the patient from injury, and call for help"
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Domain 2  •  Patient Preparation",
+    "questions": [
+     {
+      "n": 27,
+      "stem": "The most reliable method to identify a hospitalized patient is to:",
+      "options": [
+       "Check the chart at the nurses' station only",
+       "Match the ID wristband to the requisition and have the patient state name and DOB",
+       "Use the room and bed number",
+       "Ask the patient's roommate"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 28,
+      "stem": "Which test most commonly requires the patient to be fasting?",
+      "options": [
+       "ABO blood typing",
+       "Complete blood count (CBC)",
+       "Lipid panel",
+       "Blood culture"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 29,
+      "stem": "A requisition form must contain:",
+      "options": [
+       "The phlebotomist's home address",
+       "No specific required fields",
+       "The patient's employer only",
+       "Patient demographics, ordering provider, tests ordered, and date/time"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 30,
+      "stem": "Informed consent means the patient:",
+      "options": [
+       "Is unconscious during the draw",
+       "Understands and agrees to the procedure after being informed",
+       "Always requires a guardian regardless of age",
+       "Signs a form without any explanation"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 31,
+      "stem": "If a hospitalized patient's ID band is missing, the phlebotomist should:",
+      "options": [
+       "Skip identification for that patient",
+       "Have the nurse identify and re-band the patient before drawing",
+       "Draw the specimen anyway",
+       "Rely on the room number"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 32,
+      "stem": "A patient scheduled for a glucose tolerance test should be instructed to:",
+      "options": [
+       "Exercise vigorously before arriving",
+       "Eat a large breakfast first",
+       "Drink several cups of coffee",
+       "Fast beforehand and follow the timed collection schedule"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 33,
+      "stem": "The safest patient position for someone with a history of fainting is:",
+      "options": [
+       "Standing at the counter",
+       "Sitting on a tall backless stool",
+       "Reclined or lying down",
+       "Walking during the draw"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 34,
+      "stem": "When a language barrier exists, the phlebotomist should:",
+      "options": [
+       "Simply speak louder in English",
+       "Ask a young child to translate",
+       "Proceed without explaining",
+       "Obtain a qualified medical interpreter"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 35,
+      "stem": "The basal state is best achieved:",
+      "options": [
+       "Immediately after exercise",
+       "In the evening after a workday",
+       "In the early morning after about 12 hours of fasting and rest",
+       "After a large meal"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 36,
+      "stem": "Confirming that a patient has fasted matters because recent eating can:",
+      "options": [
+       "Have no effect on any result",
+       "Change the patient's blood type",
+       "Improve the accuracy of all tests",
+       "Falsely affect results such as glucose and triglycerides"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 37,
+      "stem": "A phlebotomist should introduce themselves by:",
+      "options": [
+       "Saying nothing and starting the draw",
+       "Stating their name and role or department",
+       "Giving their personal phone number",
+       "Using only a nickname"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 38,
+      "stem": "The best way to gain a pediatric patient's cooperation is to:",
+      "options": [
+       "Withhold all information about the procedure",
+       "Restrain the child immediately",
+       "Promise it will not hurt at all",
+       "Be honest, build rapport, and explain in age-appropriate terms"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 39,
+      "stem": "Which is an example of nonverbal communication?",
+      "options": [
+       "A telephone call",
+       "Body language and facial expression",
+       "An email message",
+       "A written requisition"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 40,
+      "stem": "Before collecting a timed specimen, the phlebotomist must confirm:",
+      "options": [
+       "The cafeteria menu",
+       "The patient's favorite color",
+       "The exact time the specimen is to be collected",
+       "The day's weather"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 41,
+      "stem": "A competent adult who refuses a blood draw should be:",
+      "options": [
+       "Ignored and drawn anyway",
+       "Respected; the provider is notified and the refusal is documented",
+       "Physically forced to comply",
+       "Reported to the police"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 42,
+      "stem": "When a patient asks why a test was ordered, the phlebotomist should:",
+      "options": [
+       "Diagnose the condition",
+       "Guess at the reason",
+       "Refer the patient to the ordering provider",
+       "Refuse to speak to the patient"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 43,
+      "stem": "Patient confidentiality can be breached by:",
+      "options": [
+       "Discussing patient information in a public hallway",
+       "Reading the requisition form",
+       "Checking the ID wristband",
+       "Privately verifying the date of birth"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 44,
+      "stem": "For a comatose inpatient who cannot speak, an acceptable identification method is:",
+      "options": [
+       "Using the room number alone",
+       "Checking the bed linens",
+       "Confirming the ID wristband with the nurse",
+       "Making a verbal guess"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 45,
+      "stem": "If a patient says they feel faint before the draw, the phlebotomist should:",
+      "options": [
+       "Have the patient lie down and proceed cautiously or reschedule",
+       "Offer the patient coffee",
+       "Draw quickly while the patient stands",
+       "Ignore the complaint"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 46,
+      "stem": "Proper arm positioning for a routine venipuncture is:",
+      "options": [
+       "Unsupported and free to move",
+       "Bent sharply at the elbow",
+       "Raised above the head",
+       "Extended downward and well supported, with the site accessible"
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Domain 3  •  Routine Blood Collections",
+    "questions": [
+     {
+      "n": 47,
+      "stem": "In the CLSI order of draw, the tube collected immediately after blood cultures is the:",
+      "options": [
+       "Lavender (EDTA) tube",
+       "Green (heparin) tube",
+       "Light blue (sodium citrate) tube",
+       "Gray (fluoride) tube"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 48,
+      "stem": "A serum separator tube (SST) usually has a stopper that is:",
+      "options": [
+       "Light blue",
+       "Gold, or red-and-gray “tiger” top",
+       "Gray",
+       "Purple"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 49,
+      "stem": "The anticoagulant found in a green-top tube is:",
+      "options": [
+       "EDTA",
+       "Sodium citrate",
+       "Sodium fluoride",
+       "Heparin"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 50,
+      "stem": "EDTA prevents blood from clotting by:",
+      "options": [
+       "Activating platelets",
+       "Diluting the specimen",
+       "Binding (chelating) calcium",
+       "Adding calcium to the sample"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 51,
+      "stem": "A tourniquet should be applied how far above the intended venipuncture site?",
+      "options": [
+       "3 to 4 inches",
+       "About 12 inches",
+       "On the wrist below the site",
+       "Directly over the site"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 52,
+      "stem": "If a vein cannot be seen, the phlebotomist should:",
+      "options": [
+       "Palpate with the index finger to locate it",
+       "Skip palpation and choose randomly",
+       "Feel only for the pulse with the thumb",
+       "Insert the needle blindly"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 53,
+      "stem": "The needle insertion angle for an evacuated-tube venipuncture should be:",
+      "options": [
+       "90 degrees",
+       "60 degrees",
+       "45 degrees",
+       "30 degrees or less"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 54,
+      "stem": "The preferred first-choice vein for routine venipuncture is the:",
+      "options": [
+       "Median cubital vein",
+       "A small hand vein",
+       "Basilic vein",
+       "The radial artery"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 55,
+      "stem": "Which vein is generally avoided because it lies near a nerve and artery?",
+      "options": [
+       "Basilic vein",
+       "Median cubital vein",
+       "Median vein",
+       "Cephalic vein"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 56,
+      "stem": "A light-blue citrate tube used for coagulation testing must be:",
+      "options": [
+       "Left unmixed",
+       "Deliberately under-filled",
+       "Filled completely to maintain the 9:1 blood-to-additive ratio",
+       "Shaken vigorously"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 57,
+      "stem": "Failing to invert an additive tube after collection can cause:",
+      "options": [
+       "Faster serum separation",
+       "Prevention of hemolysis",
+       "Clotting or an inaccurate result",
+       "Better long-term mixing"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 58,
+      "stem": "The proper technique for cleaning a routine venipuncture site is to:",
+      "options": [
+       "Blow on the site to dry it",
+       "Dab once and insert immediately",
+       "Use friction (circular or back-and-forth) with alcohol, then let it air dry",
+       "Re-wipe with the same pad after touching skin"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 59,
+      "stem": "If a patient's vein tends to roll, the phlebotomist should:",
+      "options": [
+       "Apply the tourniquet on the wrist",
+       "Draw without anchoring",
+       "Insert the needle faster",
+       "Anchor the vein firmly below the site before inserting the needle"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 60,
+      "stem": "A hematoma forming during a venipuncture indicates:",
+      "options": [
+       "The draw was successful",
+       "Ideal technique",
+       "Blood is leaking into the surrounding tissue",
+       "Hemolysis inside the tube"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 61,
+      "stem": "If blood suddenly stops flowing into the tube, a likely cause is:",
+      "options": [
+       "The tourniquet is too loose only",
+       "The bevel is against the vein wall or the vein has collapsed",
+       "The tube is overfilled",
+       "Excellent vein access"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 62,
+      "stem": "Which needle gauge has the smallest (thinnest) bore?",
+      "options": [
+       "21 gauge",
+       "20 gauge",
+       "18 gauge",
+       "23 gauge"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 63,
+      "stem": "A winged infusion (butterfly) set is most commonly used for:",
+      "options": [
+       "Only the largest antecubital veins",
+       "Hand veins or small, difficult veins",
+       "Bone marrow collection",
+       "Arterial punctures"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 64,
+      "stem": "Hemolysis is best defined as:",
+      "options": [
+       "The rupture of red blood cells, releasing hemoglobin",
+       "The coagulation cascade",
+       "Normal separation of serum",
+       "Clotting of the specimen"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 65,
+      "stem": "After the needle is removed, pressure should be applied to the site until:",
+      "options": [
+       "Exactly two seconds pass",
+       "The next patient arrives",
+       "The patient has left",
+       "Bleeding has stopped"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 66,
+      "stem": "Specimen tubes should be labeled:",
+      "options": [
+       "The following day",
+       "At the patient's side, immediately after collection",
+       "Only after returning to the lab",
+       "Before the blood is drawn"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 67,
+      "stem": "The purpose of applying a tourniquet is to:",
+      "options": [
+       "Cause venous filling so veins are easier to locate and enter",
+       "Sterilize the puncture site",
+       "Stop all arterial flow",
+       "Numb the site to reduce pain"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 68,
+      "stem": "Leaving a tourniquet on for longer than one minute can cause:",
+      "options": [
+       "Sterilization of the site",
+       "Hemoconcentration and altered test results",
+       "Faster flow with no effect",
+       "Hemodilution of the sample"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 69,
+      "stem": "For a capillary puncture on an adult, the recommended site is the:",
+      "options": [
+       "Exact center of the fingertip",
+       "Fleshy side of the middle or ring fingertip",
+       "Earlobe",
+       "Tip of the thumb"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 70,
+      "stem": "In a capillary collection, the order of draw begins with:",
+      "options": [
+       "Any order desired",
+       "The EDTA (hematology) specimen",
+       "The gray-tube specimen",
+       "The serum specimen"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 71,
+      "stem": "When performing a heel stick on a newborn, the phlebotomist must avoid:",
+      "options": [
+       "The center or arch of the heel, to prevent bone injury",
+       "Pre-warming the heel",
+       "The lateral plantar surface",
+       "The medial plantar surface"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 72,
+      "stem": "Warming a capillary puncture site before collection:",
+      "options": [
+       "Increases blood flow to the area",
+       "Decreases blood flow",
+       "Serves no purpose",
+       "Causes hemolysis"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 73,
+      "stem": "For a patient who has had a mastectomy on one side, blood should be drawn:",
+      "options": [
+       "From the arm on the affected side",
+       "Not at all, ever",
+       "From either arm without concern",
+       "From the arm on the unaffected side (or per the provider)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 74,
+      "stem": "Reflux of tube additive back into the patient's vein is prevented by:",
+      "options": [
+       "Raising the arm upward",
+       "Filling tubes stopper-first",
+       "Keeping the arm angled downward with the tube below the site",
+       "Removing the tourniquet last"
+      ],
+      "answer": "C"
+     }
+    ]
+   },
+   {
+    "name": "Domain 4  •  Special Collections",
+    "questions": [
+     {
+      "n": 75,
+      "stem": "Aseptic skin preparation for blood cultures is critical mainly to:",
+      "options": [
+       "Warm the site",
+       "Reduce the patient's pain",
+       "Speed up the draw",
+       "Prevent contamination that causes false-positive results"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 76,
+      "stem": "The typical antiseptic approach for a blood culture site is:",
+      "options": [
+       "Sterile water only",
+       "A bleach wipe",
+       "No preparation at all",
+       "Alcohol followed by chlorhexidine (or per facility protocol)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 77,
+      "stem": "Both aerobic and anaerobic bottles are collected for blood cultures in order to:",
+      "options": [
+       "Screen for glucose",
+       "Double the volume for chemistry tests",
+       "Save collection time",
+       "Detect organisms that grow with or without oxygen"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 78,
+      "stem": "A newborn screening (e.g., PKU) card must be:",
+      "options": [
+       "Filled within the printed circles and allowed to dry properly",
+       "Frozen while still wet",
+       "Soaked in saline",
+       "Centrifuged before drying"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 79,
+      "stem": "During a 3-hour glucose tolerance test, specimens are collected:",
+      "options": [
+       "Only once at the very end",
+       "Whenever it is convenient",
+       "Fasting first, then at timed intervals after the glucose drink",
+       "Only before the fasting sample"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 80,
+      "stem": "A therapeutic drug “trough” level is collected:",
+      "options": [
+       "Just before the next scheduled dose",
+       "During the medication infusion",
+       "Immediately after the dose is given",
+       "At any random time"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 81,
+      "stem": "Point-of-care hemoglobin/hematocrit testing is commonly used to:",
+      "options": [
+       "Screen blood donors or check for anemia at the bedside",
+       "Diagnose cancer",
+       "Measure blood glucose",
+       "Permanently replace the CBC"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 82,
+      "stem": "For a legal blood alcohol collection, the site must be cleaned with:",
+      "options": [
+       "Nothing",
+       "An alcohol-based iodine tincture",
+       "70% isopropyl alcohol",
+       "A non-alcohol antiseptic"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 83,
+      "stem": "Chain-of-custody documentation ensures that:",
+      "options": [
+       "Results are produced faster",
+       "The patient is more comfortable",
+       "The specimen's handling and integrity are traceable for legal purposes",
+       "Testing costs less"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 84,
+      "stem": "When drawing blood from a neonatal or pediatric patient, the main risk to monitor is:",
+      "options": [
+       "Applying too many labels",
+       "Improper standing position",
+       "Removing too much blood volume (iatrogenic anemia)",
+       "Fasting the child too long"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 85,
+      "stem": "A prospective blood donor's hemoglobin and vital signs are checked to:",
+      "options": [
+       "Bill the insurance company",
+       "Determine blood type only",
+       "Speed up the donation line",
+       "Ensure the donor is healthy enough to donate safely"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 86,
+      "stem": "A sputum specimen is an example of a:",
+      "options": [
+       "Arterial specimen",
+       "Capillary specimen",
+       "Non-blood specimen",
+       "Venous blood specimen"
+      ],
+      "answer": "C"
+     }
+    ]
+   },
+   {
+    "name": "Domain 5  •  Processing",
+    "questions": [
+     {
+      "n": 87,
+      "stem": "Serum is obtained from blood that has:",
+      "options": [
+       "Been frozen before clotting",
+       "Not been centrifuged",
+       "Clotted and then been centrifuged (no anticoagulant)",
+       "Been prevented from clotting with EDTA"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 88,
+      "stem": "Plasma differs from serum in that plasma:",
+      "options": [
+       "Contains no proteins at all",
+       "Is identical to serum",
+       "Contains fibrinogen (it is collected with an anticoagulant)",
+       "Contains no water"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 89,
+      "stem": "Serum or plasma should generally be separated from the cells within:",
+      "options": [
+       "24 hours",
+       "There is no time limit",
+       "12 hours",
+       "2 hours of collection"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 90,
+      "stem": "A specimen that must be kept warm (about 37°C) during transport is a:",
+      "options": [
+       "Routine CBC",
+       "Lipid panel",
+       "Fasting glucose",
+       "Cold agglutinin / cryoglobulin specimen"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 91,
+      "stem": "Before centrifuging, the phlebotomist must ensure the tubes are:",
+      "options": [
+       "Filled with air",
+       "Balanced and capped",
+       "Uncapped",
+       "Loaded on only one side"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 92,
+      "stem": "Repeated re-centrifugation of a specimen can cause:",
+      "options": [
+       "Hemolysis",
+       "No change at all",
+       "Improved separation",
+       "Only clot formation"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 93,
+      "stem": "An aliquot tube must be labeled with:",
+      "options": [
+       "A random number",
+       "The same patient identifiers as the original specimen",
+       "No label",
+       "Only the phlebotomist's name"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 94,
+      "stem": "A specimen for bilirubin must be protected from light because light:",
+      "options": [
+       "Increases the bilirubin level",
+       "Has no effect on it",
+       "Freezes the sample",
+       "Degrades (breaks down) bilirubin"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 95,
+      "stem": "A critical (panic) value must be:",
+      "options": [
+       "Filed for monthly review",
+       "Reported immediately and documented",
+       "Ignored",
+       "Mailed to the patient"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 96,
+      "stem": "A grossly hemolyzed specimen is usually:",
+      "options": [
+       "Reported without any comment",
+       "Rejected and recollected",
+       "Frozen for later",
+       "Diluted and run"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 97,
+      "stem": "When packaging specimens for transport, they should be placed:",
+      "options": [
+       "Taped to the paperwork",
+       "In a sealed, leak-proof biohazard bag",
+       "Loose in a shirt pocket",
+       "In an open cup"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 98,
+      "stem": "The laboratory information system (LIS) is used to:",
+      "options": [
+       "Centrifuge the tubes",
+       "Disinfect surfaces",
+       "Enter, track, and retrieve specimen and result data",
+       "Store PPE"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 99,
+      "stem": "A specimen received in the lab with no label should be:",
+      "options": [
+       "Guessed at and labeled",
+       "Quietly discarded",
+       "Rejected and not processed, per policy",
+       "Run anyway"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 100,
+      "stem": "The total testing process is divided into three phases:",
+      "options": [
+       "Pre-analytical, analytical, and post-analytical",
+       "Only the analytical phase",
+       "Billing, testing, and cleaning",
+       "Draw, spin, and discard"
+      ],
+      "answer": "A"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cpt3",
+  "title": "NHA CPT Practice Exam #3",
+  "subtitle": "Advanced / Scenario-Based",
+  "free": false,
+  "sections": [
+   {
+    "name": "Domain 1  •  Safety and Compliance",
+    "questions": [
+     {
+      "n": 1,
+      "stem": "A phlebotomist is stuck by a needle used on a patient of unknown status. After washing the site, the next step per the exposure control plan is to:",
+      "options": [
+       "Wait to see if symptoms develop before reporting",
+       "Personally retest the patient's blood",
+       "Report to the supervisor and begin the post-exposure evaluation/prophylaxis process",
+       "Bandage the finger and finish the shift"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 2,
+      "stem": "Under OSHA, an employer must retain an employee's medical and exposure records for:",
+      "options": [
+       "Only while the person is employed",
+       "Seven years",
+       "One year after the exposure",
+       "The duration of employment plus 30 years"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 3,
+      "stem": "The safest practice immediately after completing a venipuncture is to:",
+      "options": [
+       "Bend the needle to prevent reuse",
+       "Recap the needle with two hands, then dispose of it",
+       "Activate the safety device and dispose of the needle in the nearest sharps container without recapping",
+       "Carry the uncapped needle to a container in another room"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 4,
+      "stem": "A patient is in a private room with a sign requiring gown, gloves, and mask, and the door may remain open. These are best described as:",
+      "options": [
+       "Contact plus droplet precautions",
+       "Standard precautions only",
+       "Airborne precautions",
+       "Protective (reverse) isolation"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 5,
+      "stem": "Which scenario represents a breach of HIPAA's “minimum necessary” standard?",
+      "options": [
+       "Accessing the EHR to read the history of a patient the phlebotomist is not drawing",
+       "Confirming the collection time on the requisition",
+       "Viewing the test orders for the patient being drawn",
+       "Verifying a patient's date of birth before a draw"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 6,
+      "stem": "A blood spill too large to absorb with a towel should be managed by:",
+      "options": [
+       "Leaving it to air dry",
+       "Wiping it quickly with an alcohol pad",
+       "Containing it, applying an EPA-registered/1:10 bleach disinfectant for the proper contact time, then cleaning",
+       "Rinsing with water and drying"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 7,
+      "stem": "In the hierarchy of exposure controls, personal protective equipment is considered the:",
+      "options": [
+       "A substitute for Standard Precautions",
+       "Last line of defense, after engineering and work-practice controls",
+       "Same category as an engineering control",
+       "First and most important control"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 8,
+      "stem": "The single most important measure to prevent healthcare-associated infection is:",
+      "options": [
+       "Wearing a gown at all times",
+       "Using a face shield",
+       "Wearing double gloves",
+       "Proper hand hygiene"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 9,
+      "stem": "A CLIA-“waived” test is best characterized as one that:",
+      "options": [
+       "Can only be performed in a reference lab",
+       "Has a low risk of erroneous results and is simple to perform",
+       "Requires a pathologist to interpret",
+       "Is classified as high-complexity"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 10,
+      "stem": "Hand hygiene should be performed with soap and water rather than alcohol rub when:",
+      "options": [
+       "Hands are visibly soiled or after caring for a patient with C. difficile",
+       "Hands are dry and appear clean",
+       "After removing intact gloves with no contamination",
+       "Between routine patients with no visible soiling"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 11,
+      "stem": "Which action best demonstrates staying within a phlebotomist's scope of practice?",
+      "options": [
+       "Recommending a medication",
+       "Declining to tell a patient their diagnosis and referring them to the provider",
+       "Interpreting the CBC result for the patient",
+       "Adjusting the physician's order"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 12,
+      "stem": "The purpose of running known control samples on a glucometer is to:",
+      "options": [
+       "Replace the need for a venous CBC",
+       "Calibrate the patient's own glucose level",
+       "Verify the instrument and reagents are producing accurate, reliable results",
+       "Document the patient's fasting status"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 13,
+      "stem": "Discarding a used glass capillary tube into a red bag instead of a sharps container creates a risk of:",
+      "options": [
+       "Specimen mislabeling",
+       "Hemolysis",
+       "Puncture injury and bloodborne pathogen exposure",
+       "Glycolysis"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 14,
+      "stem": "A patient asks the phlebotomist not to document a positive result. The correct response is to:",
+      "options": [
+       "Delete the result",
+       "Explain that accurate documentation is legally and ethically required and cannot be altered",
+       "Change the result to negative",
+       "Agree to leave it out"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 15,
+      "stem": "The Joint Commission's National Patient Safety Goals most directly require phlebotomists to:",
+      "options": [
+       "Draw the largest possible volume",
+       "Skip the requisition when busy",
+       "Label tubes after returning to the lab",
+       "Use at least two patient identifiers before collection"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 16,
+      "stem": "The correct sequence for donning PPE before entering a contact-and-droplet isolation room is:",
+      "options": [
+       "Hand hygiene, gown, mask, goggles, gloves",
+       "Goggles, gloves, gown, mask",
+       "Mask, gloves, gown, hand hygiene",
+       "Gloves, gown, mask, goggles"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 17,
+      "stem": "A freshly drawn tube slips and blood contacts a cut on the phlebotomist's hand. This is:",
+      "options": [
+       "Not an exposure because there was no needlestick",
+       "Only a concern if the patient is symptomatic",
+       "Handled by finishing the shift first",
+       "An occupational exposure requiring immediate washing and reporting"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 18,
+      "stem": "OSHA's Hazard Communication (“Right to Know”) Standard requires:",
+      "options": [
+       "A public list of all employees",
+       "Insurance verification",
+       "Labeling of hazardous chemicals and accessible Safety Data Sheets",
+       "Posting patient results"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 19,
+      "stem": "Reverse (protective) isolation is used to:",
+      "options": [
+       "Contain an airborne pathogen",
+       "Manage a large blood spill",
+       "Protect an immunocompromised patient from the phlebotomist's organisms",
+       "Protect the phlebotomist from the patient"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 20,
+      "stem": "A patient collapses, is unresponsive, and has no pulse. The phlebotomist should first:",
+      "options": [
+       "Finish labeling the tubes",
+       "Give the patient juice",
+       "Reapply the tourniquet",
+       "Activate the emergency response and begin CPR"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 21,
+      "stem": "Engineering controls differ from work-practice controls in that engineering controls:",
+      "options": [
+       "Are the same thing as PPE",
+       "Depend on how the worker performs the task",
+       "Physically isolate or remove the hazard (e.g., sharps containers, self-sheathing needles)",
+       "Are optional"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 22,
+      "stem": "A phlebotomist sees a coworker posting a celebrity patient's results online. The appropriate action is to:",
+      "options": [
+       "Warn the celebrity directly",
+       "Join the discussion",
+       "Ignore it",
+       "Report the HIPAA violation to a supervisor or compliance officer"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 23,
+      "stem": "Which item belongs in a sharps container rather than a red biohazard bag?",
+      "options": [
+       "A used glove",
+       "A blood-soaked gauze pad",
+       "A used winged (butterfly) blood collection set",
+       "An empty specimen transport bag"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 24,
+      "stem": "The most effective way to prevent needlestick injuries during a draw is to:",
+      "options": [
+       "Recap immediately using both hands",
+       "Use safety-engineered devices and never recap",
+       "Work faster",
+       "Draw without gloves for a better grip"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 25,
+      "stem": "Documenting a centrifuge that fails its temperature check is part of:",
+      "options": [
+       "Quality assurance and equipment maintenance logs",
+       "The requisition",
+       "The chain of custody",
+       "The patient's consent form"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 26,
+      "stem": "An N95 respirator and a closed door are required for a tuberculosis patient because TB spreads by:",
+      "options": [
+       "Airborne droplet nuclei that remain suspended in the air",
+       "Contaminated surfaces only",
+       "Large droplets that fall quickly",
+       "Direct contact only"
+      ],
+      "answer": "A"
+     }
+    ]
+   },
+   {
+    "name": "Domain 2  •  Patient Preparation",
+    "questions": [
+     {
+      "n": 27,
+      "stem": "An outpatient here for a fasting glucose and lipid panel says she had coffee with cream two hours ago. The phlebotomist should:",
+      "options": [
+       "Send her home and cancel testing permanently",
+       "Reassure her that cream does not affect fasting",
+       "Draw and report the results as fasting",
+       "Note that she is not properly fasting and notify the provider before proceeding"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 28,
+      "stem": "An inpatient's wristband shows a different middle initial than the requisition. The phlebotomist should:",
+      "options": [
+       "Identify the patient by room number instead",
+       "Stop and resolve the discrepancy with the nurse before drawing",
+       "Assume it is a typo and proceed",
+       "Draw now and correct the label later"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 29,
+      "stem": "A 15-year-old arrives alone for a non-emergency draw. Consent should generally come from:",
+      "options": [
+       "A parent or legal guardian, unless an emancipation/consent exception applies",
+       "No one is needed",
+       "The 15-year-old alone in all cases",
+       "The phlebotomist"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 30,
+      "stem": "A patient says, “I always pass out.” The best preemptive action is to:",
+      "options": [
+       "Draw quickly while she sits upright",
+       "Assure her fainting is impossible",
+       "Use a larger-gauge needle",
+       "Place the patient in a reclined/supine position before beginning"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 31,
+      "stem": "A dialysis patient has an arteriovenous fistula in the left arm. The phlebotomist should:",
+      "options": [
+       "Draw below the fistula on the same arm",
+       "Avoid the fistula arm and use the other arm, or follow provider guidance",
+       "Draw directly from the fistula",
+       "Apply the tourniquet over the fistula"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 32,
+      "stem": "Which requisition detail most directly determines which tubes are selected?",
+      "options": [
+       "The patient's insurance plan",
+       "The specific tests ordered",
+       "The collection room number",
+       "The ordering provider's name"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 33,
+      "stem": "A vancomycin “trough” level should be collected:",
+      "options": [
+       "At any convenient time",
+       "At the drug's peak",
+       "Immediately before the next dose is administered",
+       "Thirty minutes after the dose"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 34,
+      "stem": "For a routine, non-urgent draw on a non-English-speaking patient with no interpreter available, the phlebotomist should:",
+      "options": [
+       "Have the patient's young child interpret consent",
+       "Skip consent to save time",
+       "Delay until a qualified interpreter can ensure understanding and consent",
+       "Proceed using only gestures"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 35,
+      "stem": "“Basal state” is important for certain tests because it means the patient is:",
+      "options": [
+       "At complete rest and fasting (~12 hours), minimizing physiologic variation",
+       "Recently finished exercising",
+       "Just done eating",
+       "Mildly dehydrated"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 36,
+      "stem": "A patient scheduled for a 2-hour postprandial glucose asks about timing. Correct instruction:",
+      "options": [
+       "Eat only after the blood is drawn",
+       "Eat a normal meal; the specimen is drawn exactly two hours after the meal begins",
+       "Eat two hours after the draw",
+       "Fast completely and draw immediately"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 37,
+      "stem": "A patient has a dextrose IV running in the right arm and needs a glucose test. The phlebotomist should:",
+      "options": [
+       "Stop the IV and draw just below it",
+       "Draw from the opposite arm to avoid a falsely elevated glucose",
+       "Draw above the IV on the same arm",
+       "Draw from the IV line itself"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 38,
+      "stem": "The best example of therapeutic communication with a frightened child is:",
+      "options": [
+       "Threatening consequences for not cooperating",
+       "Explaining honestly and simply what will happen and offering a comfort position",
+       "Restraining and drawing quickly without explanation",
+       "Saying, “This won't hurt at all”"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 39,
+      "stem": "A comatose ER patient with no identification needs a STAT draw. The correct approach is to:",
+      "options": [
+       "Use the facility's temporary/“John Doe” identification system with a unique number and band",
+       "Wait until the patient regains consciousness",
+       "Use the bed number as the identifier",
+       "Draw without any identification"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 40,
+      "stem": "The main reason to confirm the exact time of a timed draw (e.g., cortisol) is that:",
+      "options": [
+       "Analyte levels vary with time of day/dosing and are interpreted against that time",
+       "Billing requires a timestamp",
+       "The patient prefers mornings",
+       "The laboratory closes early"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 41,
+      "stem": "A patient who consented now withdraws consent midway through the draw. The phlebotomist should:",
+      "options": [
+       "Keep arguing until the patient agrees",
+       "Stop immediately, remove the needle safely, and document the refusal",
+       "Finish the draw as quickly as possible",
+       "Ignore the request and continue"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 42,
+      "stem": "Which practice best protects privacy in a busy outpatient lab?",
+      "options": [
+       "Leaving requisitions visible on the counter",
+       "Discussing the case with the waiting room",
+       "Confirming identifiers quietly and not announcing diagnoses or results aloud",
+       "Calling out the patient's full diagnosis"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 43,
+      "stem": "A patient with a documented latex allergy needs a draw. The phlebotomist should use:",
+      "options": [
+       "Two pairs of latex gloves",
+       "No tourniquet or bandage at all",
+       "Latex supplies, but work quickly",
+       "Latex-free gloves, tourniquet, and bandage"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 44,
+      "stem": "A patient scheduled for blood cultures reports a chlorhexidine allergy. The phlebotomist should:",
+      "options": [
+       "Clean with alcohol only and proceed",
+       "Use chlorhexidine anyway",
+       "Use an alternative approved antiseptic (e.g., povidone-iodine) per protocol",
+       "Skip antisepsis entirely"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 45,
+      "stem": "The most important reason to properly position and support the patient's arm is to:",
+      "options": [
+       "Impress the patient",
+       "Speed up billing",
+       "Optimize vein access and reduce the risk of injury or the vein rolling",
+       "Warm the specimen"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 46,
+      "stem": "A patient took morning medications with water before a fasting test. The phlebotomist should:",
+      "options": [
+       "Assume every ordered test is now invalid",
+       "Record the patient as fully fasting",
+       "Cancel all of the patient's testing",
+       "Note it and check whether water and medications are permitted for that specific test"
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Domain 3  •  Routine Blood Collections",
+    "questions": [
+     {
+      "n": 47,
+      "stem": "A provider orders a blood culture, PT/INR, CBC, and a fasting glucose. Using the CLSI order of draw, the correct tube sequence is:",
+      "options": [
+       "Blood culture, lavender, light blue, gray",
+       "Blood culture, light blue, lavender, gray",
+       "Lavender, light blue, gray, blood culture",
+       "Light blue, blood culture, gray, lavender"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 48,
+      "stem": "The light blue (citrate) tube is drawn before serum and EDTA tubes mainly to:",
+      "options": [
+       "Reduce the patient's pain",
+       "Speed up the overall draw",
+       "Prevent hemolysis of the citrate tube",
+       "Prevent additive carryover that would contaminate the coagulation sample"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 49,
+      "stem": "A light blue coagulation tube is filled only halfway. The phlebotomist should:",
+      "options": [
+       "Recollect, because the excess citrate-to-blood ratio will falsely prolong PT/PTT",
+       "Combine two half-filled tubes",
+       "Add saline to top off the tube",
+       "Send it, because fill volume does not matter"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 50,
+      "stem": "Which additive prevents clotting by binding calcium and is therefore unsuitable for a calcium level?",
+      "options": [
+       "Thixotropic separator gel",
+       "EDTA",
+       "Clot activator",
+       "Lithium heparin"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 51,
+      "stem": "A royal blue EDTA tube is ordered for a lead/trace-element study because it is:",
+      "options": [
+       "Used for coagulation testing",
+       "Manufactured to be free of trace-element contamination",
+       "A serum separator tube",
+       "Identical to a lavender tube"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 52,
+      "stem": "Leaving the tourniquet on for more than one minute before the draw can falsely elevate:",
+      "options": [
+       "Nothing measurable",
+       "Potassium, protein, and other analytes due to hemoconcentration",
+       "Only glucose",
+       "Sodium only, and it lowers it"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 53,
+      "stem": "A patient reports a sharp, electric, shooting pain radiating down the arm as the needle is inserted. The phlebotomist should:",
+      "options": [
+       "Advance deeper to reach the vein",
+       "Remove the needle immediately, as this suggests nerve involvement",
+       "Redirect the needle laterally to find the vein",
+       "Continue, since this pain is normal"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 54,
+      "stem": "To reduce hemolysis when drawing a fragile vein with a syringe, the phlebotomist should:",
+      "options": [
+       "Shake the tubes after transfer",
+       "Pull the plunger back slowly and use an appropriately sized needle",
+       "Pull the plunger back rapidly",
+       "Use a 25-gauge needle for the full volume"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 55,
+      "stem": "A 23-gauge butterfly is chosen for a small hand vein instead of a 21-gauge because a higher gauge number means:",
+      "options": [
+       "A larger lumen for faster flow",
+       "A smaller-diameter lumen suited to small, fragile veins",
+       "A duller needle",
+       "A longer needle"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 56,
+      "stem": "During venipuncture, the bevel of the needle should face:",
+      "options": [
+       "Down",
+       "Any direction; it does not matter",
+       "Sideways",
+       "Up"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 57,
+      "stem": "Blood stops flowing partway through and a hematoma is rising under the skin. The phlebotomist should:",
+      "options": [
+       "Release the tourniquet, remove the needle, and apply firm pressure",
+       "Reapply a tighter tourniquet",
+       "Rotate the tube and keep collecting",
+       "Advance the needle deeper"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 58,
+      "stem": "An EDTA (CBC) specimen contains small clots. The most likely effect is:",
+      "options": [
+       "A falsely decreased platelet count, requiring recollection",
+       "A falsely increased but acceptable platelet count",
+       "A prolonged PT result",
+       "No effect on the count"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 59,
+      "stem": "Why does the order of draw matter when one venipuncture fills several additive tubes?",
+      "options": [
+       "To reduce the needle gauge needed",
+       "To keep the tubes at the right temperature",
+       "To make labeling faster",
+       "To prevent additive carryover from contaminating later tubes and altering results"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 60,
+      "stem": "The median cubital vein is preferred over the basilic vein primarily because the basilic vein:",
+      "options": [
+       "Contains arterial blood",
+       "Can never be palpated",
+       "Lies close to the brachial artery and median nerve, raising injury risk",
+       "Is always too small to use"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 61,
+      "stem": "A patient's only visible veins are on the underside (ventral) of the wrist. The phlebotomist should:",
+      "options": [
+       "Use a 16-gauge needle at that site",
+       "Perform an arterial draw instead",
+       "Draw from the ventral wrist quickly",
+       "Avoid the ventral wrist due to nerve/tendon risk and seek another site or assistance"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 62,
+      "stem": "Cleaning a site with alcohol and then blowing on it to dry will:",
+      "options": [
+       "Improve vein visibility",
+       "Speed drying with no downside",
+       "Further sterilize the site",
+       "Recontaminate the site and may cause stinging or hemolysis"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 63,
+      "stem": "After probing unsuccessfully for about 30 seconds, best practice is to:",
+      "options": [
+       "Discontinue and limit attempts to two before asking another phlebotomist",
+       "Attempt five sticks before stopping",
+       "Redirect blindly in a lateral direction",
+       "Keep probing until successful"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 64,
+      "stem": "How many inversions does an EDTA tube require, and why?",
+      "options": [
+       "3 vigorous shakes to speed mixing",
+       "20 inversions to prevent hemolysis",
+       "None, because EDTA works instantly",
+       "8–10 gentle inversions to mix the anticoagulant and prevent clotting"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 65,
+      "stem": "When filling tubes from a syringe, the phlebotomist should:",
+      "options": [
+       "Remove the stopper and pour the blood in",
+       "Use a transfer device, let the tube vacuum draw the blood, and follow the order of draw",
+       "Push the plunger hard to fill quickly",
+       "Fill in any order because it is a syringe"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 66,
+      "stem": "Which finding suggests the tourniquet is too tight or left on too long?",
+      "options": [
+       "An immediate blood flash",
+       "Petechiae, blanching, and patient discomfort",
+       "A strong pulse felt below it",
+       "Faster capillary refill"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 67,
+      "stem": "The correct order of draw for a capillary (dermal) collection is:",
+      "options": [
+       "EDTA collected last",
+       "Gray tube first, then EDTA",
+       "Serum first, then EDTA",
+       "Blood gas, then EDTA (lavender), then other additive tubes, then serum"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 68,
+      "stem": "A dermal puncture should not exceed about 2.0 mm depth on an infant heel to avoid:",
+      "options": [
+       "Excess bleeding only",
+       "Hemolysis of the sample",
+       "Nerve damage in the arm",
+       "Bone injury such as osteomyelitis or osteochondritis"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 69,
+      "stem": "Warming an infant's heel before a capillary draw:",
+      "options": [
+       "Is done only for comfort",
+       "Decreases blood flow to the area",
+       "Arterializes the site by increasing blood flow, improving specimen quality",
+       "Causes hemolysis"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 70,
+      "stem": "The first drop of blood from a dermal puncture should be:",
+      "options": [
+       "Wiped away only for glucose tests",
+       "Placed in the EDTA tube",
+       "Collected first as the best sample",
+       "Wiped away, because it contains tissue fluid that can affect results"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 71,
+      "stem": "Excessive milking (hard squeezing) of a finger during capillary collection causes:",
+      "options": [
+       "No measurable effect",
+       "A larger, better-quality sample",
+       "Contamination with tissue fluid and hemolysis",
+       "Faster, cleaner clotting"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 72,
+      "stem": "A patient with IVs in both arms and a recent bilateral mastectomy needs a draw. The phlebotomist should:",
+      "options": [
+       "Draw from one of the IV lines",
+       "Refuse and cancel the order indefinitely",
+       "Draw from a mastectomy-side arm without asking",
+       "Consult the provider or nurse for guidance on an appropriate site"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 73,
+      "stem": "To prevent reflux of tube contents into the patient, the phlebotomist should keep the tube:",
+      "options": [
+       "Above the venipuncture site",
+       "Inverted throughout filling",
+       "Below the venipuncture site with the arm angled downward",
+       "Level with the patient's heart"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 74,
+      "stem": "Blood collected through a previously used tube containing residual fibrin/clot may:",
+      "options": [
+       "Show no change",
+       "Mix more thoroughly",
+       "Only change color",
+       "Produce erroneous results and should be recollected in a fresh tube"
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Domain 4  •  Special Collections",
+    "questions": [
+     {
+      "n": 75,
+      "stem": "When only a small volume is obtained for blood cultures drawn by syringe, priority filling is:",
+      "options": [
+       "The aerobic bottle first, to capture the most commonly recovered organisms",
+       "Discard and always restart",
+       "Split evenly regardless of volume",
+       "The anaerobic bottle first"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 76,
+      "stem": "Under-filling blood culture bottles most affects results by:",
+      "options": [
+       "Skewing the blood-to-broth ratio and lowering sensitivity, risking false negatives",
+       "Speeding organism growth",
+       "Causing false positives only",
+       "Having no effect on results"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 77,
+      "stem": "A dermal (capillary) puncture is inappropriate for which of the following?",
+      "options": [
+       "Point-of-care glucose",
+       "Newborn metabolic screening",
+       "Newborn bilirubin",
+       "Blood cultures"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 78,
+      "stem": "For a pediatric patient, the blood volume drawn in 24 hours generally should not exceed:",
+      "options": [
+       "There is no established limit",
+       "About 5% of the patient's total blood volume",
+       "About 50% of total blood volume",
+       "About 25% of total blood volume"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 79,
+      "stem": "During a 3-hour GTT, the patient vomits 30 minutes after drinking the glucola. The phlebotomist should:",
+      "options": [
+       "Notify the provider, as the test may need to be rescheduled",
+       "Draw all remaining samples early",
+       "Give a second glucose dose immediately",
+       "Continue the test and ignore it"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 80,
+      "stem": "A therapeutic drug “peak” level differs from a trough because the peak is drawn:",
+      "options": [
+       "At any random time",
+       "After the drug has been fully absorbed and distributed (timing per drug)",
+       "Only when the patient is fasting",
+       "Just before the next dose"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 81,
+      "stem": "Quality point-of-care testing requires the phlebotomist to:",
+      "options": [
+       "Report critical values only monthly",
+       "Run and document control samples and verify the device before testing patients",
+       "Calibrate using the patient's own sample",
+       "Skip QC to save time"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 82,
+      "stem": "For a legal blood alcohol level, using an alcohol-based antiseptic on the site would:",
+      "options": [
+       "Have no effect on the result",
+       "Be specifically required",
+       "Falsely lower the result",
+       "Risk falsely elevating the result and compromise the legal specimen"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 83,
+      "stem": "Chain-of-custody for a forensic specimen requires documentation of:",
+      "options": [
+       "Nothing beyond the tube label",
+       "Every transfer and handler, with signatures, dates, and times, in a sealed container",
+       "Only the collector's name",
+       "The patient's insurance information"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 84,
+      "stem": "A newborn screening blood-spot card is unacceptable if the:",
+      "options": [
+       "Card is allowed to air dry flat",
+       "Card is labeled with the infant's identifiers",
+       "Circles are incompletely filled, layered, or contaminated",
+       "Blood is collected from the heel"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 85,
+      "stem": "A prospective blood donor whose hemoglobin is below the minimum threshold should be:",
+      "options": [
+       "Sent for a coagulation panel",
+       "Allowed to donate a double volume",
+       "Deferred, to protect the donor's own health",
+       "Drawn immediately anyway"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 86,
+      "stem": "A throat swab and a nasopharyngeal swab are examples of:",
+      "options": [
+       "Arterial punctures",
+       "Non-blood specimen collections a phlebotomist may perform or assist with",
+       "Venous blood draws",
+       "Capillary collections"
+      ],
+      "answer": "B"
+     }
+    ]
+   },
+   {
+    "name": "Domain 5  •  Processing",
+    "questions": [
+     {
+      "n": 87,
+      "stem": "A glucose specimen in a plain (no-additive) tube sits unspun for 2 hours at room temperature. The glucose result will be:",
+      "options": [
+       "Falsely decreased, because glycolysis consumes ~5–7% per hour",
+       "Falsely increased",
+       "Hemolyzed but still accurate",
+       "Unchanged"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 88,
+      "stem": "To inhibit glycolysis, a glucose specimen may be collected in a gray-top tube containing:",
+      "options": [
+       "Sodium citrate",
+       "Lithium heparin only",
+       "EDTA",
+       "Sodium fluoride with potassium oxalate"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 89,
+      "stem": "A potassium result is markedly high and the serum is pink-tinged. The most likely cause is:",
+      "options": [
+       "In vitro hemolysis releasing intracellular potassium",
+       "Lipemia",
+       "True hyperkalemia only",
+       "Glycolysis"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 90,
+      "stem": "Which group of tests typically requires the specimen to be transported chilled in an ice slurry?",
+      "options": [
+       "Arterial blood gases, ammonia, and lactic acid",
+       "Blood type and crossmatch",
+       "Glucose and CBC",
+       "CBC and lipid panel"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 91,
+      "stem": "Refrigerating an unspun tube can falsely elevate:",
+      "options": [
+       "Glucose",
+       "Sodium",
+       "Calcium",
+       "Potassium"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 92,
+      "stem": "A bilirubin specimen left under bright light will most likely show:",
+      "options": [
+       "Hemolysis",
+       "A falsely increased bilirubin",
+       "No change",
+       "A falsely decreased bilirubin from photodegradation"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 93,
+      "stem": "Serum must be separated from the cells within about 2 hours mainly to:",
+      "options": [
+       "Make labeling easier",
+       "Prevent analyte changes from continued cell metabolism (e.g., glucose, potassium)",
+       "Keep the tube warm",
+       "Allow the blood to clot better"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 94,
+      "stem": "A serum tube must clot ~30 minutes before centrifuging; spinning it too early causes:",
+      "options": [
+       "More accurate potassium",
+       "Faster, cleaner serum",
+       "Latent fibrin/clot formation that interferes with testing",
+       "Prevention of hemolysis"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 95,
+      "stem": "Two tubes of unequal volume are placed opposite each other in a centrifuge. This may cause:",
+      "options": [
+       "Faster, cleaner separation",
+       "Perfectly balanced operation",
+       "No effect at all",
+       "Imbalance leading to tube breakage, aerosols, and hemolysis"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 96,
+      "stem": "A specimen labeled only with the patient's room number arrives in the lab. It should be:",
+      "options": [
+       "Relabeled by the lab from memory",
+       "Discarded without any notice",
+       "Processed and the results released",
+       "Rejected as unacceptable and recollected with proper identifiers"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 97,
+      "stem": "An aliquot prepared from a primary tube must:",
+      "options": [
+       "Retain the same patient identifiers and be noted as an aliquot",
+       "Be left unlabeled for speed",
+       "Use a new random accession number",
+       "Carry only the technician's initials"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 98,
+      "stem": "Which pre-analytical error results from vigorous mixing or forcing blood through a small needle?",
+      "options": [
+       "Clotting of an EDTA tube",
+       "Glycolysis",
+       "Hemolysis",
+       "Light degradation"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 99,
+      "stem": "A critical (panic) value on a point-of-care test must be:",
+      "options": [
+       "Filed for the next shift",
+       "Reported only if it repeats",
+       "Reported immediately to a licensed provider and documented with time and name",
+       "Mailed to the patient"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 100,
+      "stem": "The total testing process has three phases—pre-analytical, analytical, and post-analytical. Most laboratory errors occur in the:",
+      "options": [
+       "Pre-analytical phase (collection, handling, and transport)",
+       "Analytical phase",
+       "They are distributed evenly",
+       "Post-analytical phase"
+      ],
+      "answer": "A"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cpt4",
+  "title": "NHA CPT Practice Exam #4",
+  "subtitle": "Mixed Recall & Scenario",
+  "free": false,
+  "sections": [
+   {
+    "name": "Domain 1  •  Safety and Compliance",
+    "questions": [
+     {
+      "n": 1,
+      "stem": "Thousands of samples reach the lab daily. Each specimen should be handled as if it is:",
+      "options": [
+       "Sterile",
+       "Non-hazardous",
+       "Chain-of-custody protected",
+       "Infectious (Standard Precautions)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 2,
+      "stem": "Several agencies oversee laboratories. Which agency reviews and regulates clinical laboratories?",
+      "options": [
+       "FDA",
+       "EPA",
+       "DOT",
+       "CLIA (Clinical Laboratory Improvement Amendments)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 3,
+      "stem": "Hazardous chemicals are used in every lab. Where can information on each chemical be found?",
+      "options": [
+       "The requisition form",
+       "The Safety Data Sheet (SDS)",
+       "The tube label",
+       "The patient's chart"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 4,
+      "stem": "The EPA is a federal agency with specific duties. The EPA is primarily responsible for:",
+      "options": [
+       "Setting insurance rates",
+       "Regulating hazardous/medical waste disposal and protecting the environment",
+       "Certifying phlebotomists",
+       "Accrediting hospitals"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 5,
+      "stem": "PPE depends on the situation. A patient on airborne precautions requires the phlebotomist to wear:",
+      "options": [
+       "A gown only",
+       "A fit-tested N95 respirator",
+       "A surgical mask only",
+       "No additional PPE"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 6,
+      "stem": "Blood spills must be handled correctly. A large blood spill should be cleaned with:",
+      "options": [
+       "A 1:10 bleach solution or an EPA-registered disinfectant, with proper contact time",
+       "A single alcohol wipe",
+       "A dry paper towel only",
+       "Plain water"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 7,
+      "stem": "Sharps require special disposal. A used needle should be placed:",
+      "options": [
+       "In the regular trash",
+       "In a red biohazard bag",
+       "Recapped in a drawer",
+       "In a puncture-resistant sharps container after activating the safety device"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 8,
+      "stem": "Hand hygiene is essential. An alcohol-based hand rub should NOT be used when the hands are:",
+      "options": [
+       "Cool",
+       "Visibly soiled",
+       "Recently gloved",
+       "Dry"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 9,
+      "stem": "Accreditation is common. Which organization accredits hospitals and laboratories?",
+      "options": [
+       "NIOSH",
+       "CLIA",
+       "The Joint Commission",
+       "OSHA"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 10,
+      "stem": "OSHA protects workers. Its Bloodborne Pathogens Standard requires employers to provide, free of charge, the:",
+      "options": [
+       "Hepatitis B vaccine",
+       "Influenza vaccine",
+       "Annual physical",
+       "Tetanus booster"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 11,
+      "stem": "Exposures must be managed. Immediately after a needlestick, the phlebotomist should first:",
+      "options": [
+       "Report to the billing office",
+       "Apply lotion",
+       "Finish the draw",
+       "Wash the site with soap and water"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 12,
+      "stem": "Patient information is protected. HIPAA primarily safeguards:",
+      "options": [
+       "Protected health information (PHI)",
+       "Employee schedules",
+       "Hospital revenue",
+       "Laboratory equipment"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 13,
+      "stem": "Waste is categorized. Which item must go in a sharps container rather than a biohazard bag?",
+      "options": [
+       "A used butterfly (winged) needle set",
+       "A blood-soaked gauze",
+       "A used glove",
+       "A specimen transport bag"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 14,
+      "stem": "Ethics guide practice. Discussing a patient's results with unauthorized people is:",
+      "options": [
+       "A HIPAA violation and breach of confidentiality",
+       "Part of the requisition",
+       "Required for quality control",
+       "Acceptable if brief"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 15,
+      "stem": "Quality control ensures accuracy. Running control samples on a glucometer verifies that:",
+      "options": [
+       "The correct gauge was used",
+       "The patient is fasting",
+       "The tube additive is present",
+       "The device and reagents are producing accurate results"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 16,
+      "stem": "Precautions are tiered. A patient with C. difficile requires which precautions plus soap-and-water hand hygiene?",
+      "options": [
+       "Contact precautions",
+       "Airborne precautions",
+       "Droplet precautions",
+       "Reverse isolation"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 17,
+      "stem": "First aid may be needed. If a patient faints during a draw, the phlebotomist should first:",
+      "options": [
+       "Leave to get help and return later",
+       "Remove the needle and tourniquet and protect the patient",
+       "Continue the draw",
+       "Elevate the arm and keep drawing"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 18,
+      "stem": "Scope of practice is defined. Which action is OUTSIDE a phlebotomist's scope?",
+      "options": [
+       "Collecting a blood specimen",
+       "Interpreting laboratory results for the patient",
+       "Labeling tubes",
+       "Applying a tourniquet"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 19,
+      "stem": "Documentation matters. An incident such as a patient fall should be:",
+      "options": [
+       "Documented and reported per facility policy",
+       "Ignored if it seems minor",
+       "Kept verbal only",
+       "Written on the requisition"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 20,
+      "stem": "Compliance is monitored. Refrigerator temperatures are logged in the lab to:",
+      "options": [
+       "Bill the patient",
+       "Ensure specimen and reagent storage integrity",
+       "Reorder supplies",
+       "Track staffing hours"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 21,
+      "stem": "Waste disposal is regulated. Biohazardous waste bags are colored:",
+      "options": [
+       "Red or orange with a biohazard symbol",
+       "Green",
+       "Blue",
+       "Clear"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 22,
+      "stem": "Standard Precautions include PPE. Gloves should be changed:",
+      "options": [
+       "Once per shift",
+       "Weekly",
+       "Only when torn",
+       "Between every patient"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 23,
+      "stem": "Fire safety is tested. In the acronym RACE (Rescue, Alarm, ___, Extinguish), the third step is:",
+      "options": [
+       "Cover",
+       "Contain",
+       "Call",
+       "Confine"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 24,
+      "stem": "Needlestick prevention is law. The Needlestick Safety and Prevention Act mandates the use of:",
+      "options": [
+       "Safety-engineered sharps devices",
+       "Two-handed recapping",
+       "Glass tubes",
+       "Reusable needles"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 25,
+      "stem": "Aseptic technique reduces infection. The single most effective infection-control measure is:",
+      "options": [
+       "Hand hygiene",
+       "Gowning",
+       "Masking",
+       "Double gloving"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 26,
+      "stem": "Transport must be safe. Specimens leaving the drawing area should be transported in:",
+      "options": [
+       "A shirt pocket",
+       "A bare gloved hand",
+       "An open tray",
+       "A sealed, leak-proof biohazard bag"
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Domain 2  •  Patient Preparation",
+    "questions": [
+     {
+      "n": 27,
+      "stem": "Correct identification prevents errors. What are the two main patient identifiers?",
+      "options": [
+       "Full name and date of birth",
+       "Room number and age",
+       "Bed number and initials",
+       "Diagnosis and physician"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 28,
+      "stem": "Fasting affects results. Before a cholesterol and triglyceride draw, the phlebotomist should ask:",
+      "options": [
+       "“Do you have a full bladder?”",
+       "“Have you exercised recently?”",
+       "“Have you had any food or drink besides water since midnight?”",
+       "“Are you well rested?”"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 29,
+      "stem": "Consent takes several forms. A patient who rolls up a sleeve and extends the arm has given:",
+      "options": [
+       "No consent",
+       "Informed refusal",
+       "Written consent",
+       "Implied consent"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 30,
+      "stem": "Minors require guardians. Consent for a 7-year-old's blood draw is obtained from:",
+      "options": [
+       "The nurse",
+       "The child",
+       "No one",
+       "The parent or legal guardian"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 31,
+      "stem": "Communication is key. When a patient does not speak English, the phlebotomist should:",
+      "options": [
+       "Use gestures only",
+       "Ask another patient to translate",
+       "Use a qualified medical interpreter",
+       "Skip consent"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 32,
+      "stem": "Requisitions are verified. The requisition most directly determines:",
+      "options": [
+       "Which tests and collection tubes are needed",
+       "The parking assignment",
+       "The room temperature",
+       "The patient's insurance"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 33,
+      "stem": "Positioning matters. A patient with a history of fainting should be:",
+      "options": [
+       "Walking during the draw",
+       "Reclined or lying down for the draw",
+       "Standing at the counter",
+       "Seated on a tall stool"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 34,
+      "stem": "Special considerations arise. A patient with a right-side mastectomy should be drawn:",
+      "options": [
+       "From either arm without concern",
+       "From the left (unaffected) arm, or per provider guidance",
+       "From the right arm",
+       "Not at all"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 35,
+      "stem": "Introductions build trust. When greeting a patient, the phlebotomist should state their:",
+      "options": [
+       "Nothing at all",
+       "Home address",
+       "Name and title/department",
+       "Salary"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 36,
+      "stem": "Basal state is defined. A basal-state specimen is collected:",
+      "options": [
+       "Right after exercise",
+       "Late at night",
+       "In the morning after about 12 hours of fasting and rest",
+       "Right after eating"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 37,
+      "stem": "Consider the patients below. Who is at HIGHEST risk for iatrogenic anemia from blood draws?",
+      "options": [
+       "A 40-year-old donating blood once",
+       "A healthy 19-year-old with a routine lipid panel",
+       "A 68-year-old with a routine CBC",
+       "A recently hospitalized 3-year-old with multiple discharge labs"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 38,
+      "stem": "A hospitalized patient has severe tremors and is hard to hold still. The phlebotomist should:",
+      "options": [
+       "Restrain the arm to the bed",
+       "Ask a nurse or another staff member for help holding the arm",
+       "Force the arm down and proceed",
+       "Cancel the labs until the next day"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 39,
+      "stem": "IV fluids can skew results. For a glucose test, a patient with a dextrose IV in the left arm should be drawn:",
+      "options": [
+       "From the IV line",
+       "Just below the IV on the same arm",
+       "From the right (opposite) arm",
+       "Just above the IV"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 40,
+      "stem": "Timed draws are strict. A timed cortisol specimen must be collected:",
+      "options": [
+       "At the exact time ordered",
+       "Whenever convenient",
+       "The following morning",
+       "Only while fasting"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 41,
+      "stem": "Refusal is a right. If a competent adult refuses the draw, the phlebotomist should:",
+      "options": [
+       "Respect the refusal, notify the provider, and document it",
+       "Argue until the patient agrees",
+       "Sedate the patient",
+       "Draw the specimen anyway"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 42,
+      "stem": "Privacy applies in public areas. To protect privacy, the phlebotomist should:",
+      "options": [
+       "Call out the diagnosis",
+       "Leave charts visible on the counter",
+       "Verify identifiers quietly without announcing diagnoses aloud",
+       "Discuss the case with the waiting room"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 43,
+      "stem": "Allergies are screened. A patient allergic to adhesive bandages should receive:",
+      "options": [
+       "The adhesive bandage anyway",
+       "Paper tape or a self-adhering gauze wrap",
+       "A latex wrap",
+       "No bandage at all"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 44,
+      "stem": "Non-blood specimens require instruction. A clean-catch midstream specimen is a type of:",
+      "options": [
+       "Blood collection",
+       "Sputum collection",
+       "Urine collection",
+       "Stool collection"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 45,
+      "stem": "Patient interviews reveal risks. A patient says she is dizzy and has not eaten today. The phlebotomist should:",
+      "options": [
+       "Refuse to draw ever",
+       "Ignore it and proceed",
+       "Note it, recline the patient, and proceed cautiously or reschedule",
+       "Draw while she stands"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 46,
+      "stem": "Explaining the procedure to a nervous patient primarily:",
+      "options": [
+       "Reduces anxiety and gains cooperation",
+       "Wastes time",
+       "Delays needed care",
+       "Violates HIPAA"
+      ],
+      "answer": "A"
+     }
+    ]
+   },
+   {
+    "name": "Domain 3  •  Routine Blood Collections",
+    "questions": [
+     {
+      "n": 47,
+      "stem": "Understanding physiology helps. The circulatory system's main function is to:",
+      "options": [
+       "Transport oxygen, nutrients, and wastes throughout the body",
+       "Produce urine",
+       "Filter inhaled air",
+       "Digest food"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 48,
+      "stem": "Blood volume is finite. The average adult body holds about:",
+      "options": [
+       "500 mL of blood",
+       "1 liter of blood",
+       "20 liters of blood",
+       "5 liters of blood"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 49,
+      "stem": "There are several collection methods. The most common method of blood collection is:",
+      "options": [
+       "Dermal puncture",
+       "Cardiac puncture",
+       "Arterial puncture",
+       "Venipuncture"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 50,
+      "stem": "Each draw type has a description. A venous blood draw obtains blood from a:",
+      "options": [
+       "Lymph vessel",
+       "Capillary bed only",
+       "Vein",
+       "Artery"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 51,
+      "stem": "Order prevents contamination. The correct CLSI order of draw is:",
+      "options": [
+       "Gray, lavender, green, red, light blue, blood culture",
+       "Blood culture, light blue, SST/red, green, lavender, gray",
+       "Red, green, lavender, gray, light blue, blood culture",
+       "Lavender, gray, green, red, light blue, blood culture"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 52,
+      "stem": "Tubes match tests. The lavender (EDTA) tube is used for a:",
+      "options": [
+       "PT/INR",
+       "Complete blood count (CBC)",
+       "Fasting glucose",
+       "Blood culture"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 53,
+      "stem": "Additives have mechanisms. EDTA prevents clotting by:",
+      "options": [
+       "Adding fibrin",
+       "Activating the clotting cascade",
+       "Binding (chelating) calcium",
+       "Diluting the blood"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 54,
+      "stem": "Each tube is inverted. How many times should a lavender (EDTA) tube be inverted?",
+      "options": [
+       "Once",
+       "20 times",
+       "8–10 times",
+       "3–4 times"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 55,
+      "stem": "Inversions differ by tube. How many times should a light blue (citrate) tube be inverted?",
+      "options": [
+       "8–10 times",
+       "0 times",
+       "15 times",
+       "3–4 times"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 56,
+      "stem": "Coagulation tubes are sensitive. The light blue tube must be filled to keep a blood-to-additive ratio of:",
+      "options": [
+       "4:1",
+       "9:1",
+       "1:1",
+       "2:1"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 57,
+      "stem": "Tourniquets have limits. The longest a tourniquet should remain on the arm is:",
+      "options": [
+       "10 minutes",
+       "5 minutes",
+       "1 minute",
+       "3 minutes"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 58,
+      "stem": "Angle matters. The needle angle for a routine antecubital venipuncture is:",
+      "options": [
+       "90 degrees",
+       "45 degrees",
+       "60 degrees",
+       "30 degrees or less"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 59,
+      "stem": "Hand veins differ. When drawing from the dorsum (back) of the hand, the recommended needle angle is:",
+      "options": [
+       "45 degrees",
+       "25 degrees",
+       "10 degrees",
+       "30 degrees"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 60,
+      "stem": "Site selection is deliberate. The preferred vein for routine venipuncture is the:",
+      "options": [
+       "Median cubital vein",
+       "Basilic vein",
+       "Radial artery",
+       "Ventral wrist vein"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 61,
+      "stem": "Needle size is standardized. The most common gauge for routine adult venipuncture is:",
+      "options": [
+       "30 gauge",
+       "21 gauge",
+       "25 gauge",
+       "16 gauge"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 62,
+      "stem": "Gauge numbering can confuse. A higher gauge number indicates a needle with a:",
+      "options": [
+       "Duller point",
+       "Larger lumen",
+       "Longer length",
+       "Smaller lumen"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 63,
+      "stem": "Equipment is matched to the vein. A winged (butterfly) set is best for:",
+      "options": [
+       "Bone marrow collection",
+       "Arterial draws",
+       "Small or hand veins",
+       "The largest antecubital veins"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 64,
+      "stem": "Samples can be compromised. A hemolyzed sample is one in which:",
+      "options": [
+       "The blood has clotted normally",
+       "The serum has cleanly separated",
+       "Red blood cells have ruptured, releasing hemoglobin",
+       "Fibrin strands have formed"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 65,
+      "stem": "Patient health alters samples. A lipemic specimen appears:",
+      "options": [
+       "Perfectly clear",
+       "Solidly clotted",
+       "Milky/turbid from excess lipids",
+       "Bright cherry red"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 66,
+      "stem": "Antisepsis is required. A routine venipuncture site is cleaned with:",
+      "options": [
+       "Diluted bleach",
+       "Sterile water",
+       "Povidone-iodine",
+       "70% isopropyl alcohol"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 67,
+      "stem": "Anchoring stabilizes the vein. The vein is anchored by:",
+      "options": [
+       "Having the patient squeeze the hand",
+       "Pulling the skin taut just below the site",
+       "Pressing firmly above the site",
+       "It does not require anchoring"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 68,
+      "stem": "Complications can occur. A sharp, shooting, electric pain during insertion suggests:",
+      "options": [
+       "Nerve involvement — the needle should be removed",
+       "Hemolysis",
+       "An ideal vein",
+       "Normal pain — continue"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 69,
+      "stem": "Watch for problems. Blood pooling and swelling under the skin during a draw indicates a:",
+      "options": [
+       "Petechiae",
+       "Hematoma",
+       "Lipemic sample",
+       "Successful draw"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 70,
+      "stem": "Dermal sites are specific. An adult capillary puncture is performed on the:",
+      "options": [
+       "Side of the middle or ring fingertip",
+       "Center of the fingertip",
+       "Thumb tip",
+       "Earlobe"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 71,
+      "stem": "Infants require care. A newborn heel stick is performed on the:",
+      "options": [
+       "Big toe",
+       "Arch of the foot",
+       "Center of the heel",
+       "Medial or lateral plantar surface of the heel"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 72,
+      "stem": "Capillary technique matters. In a dermal collection, the first drop of blood should be:",
+      "options": [
+       "Saved only for glucose",
+       "Wiped away",
+       "Placed in the EDTA tube",
+       "Collected first as the best drop"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 73,
+      "stem": "Labeling is time-sensitive. Specimen tubes must be labeled:",
+      "options": [
+       "Before the blood is drawn",
+       "The next day",
+       "After returning to the lab",
+       "At the patient's side, immediately after collection"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 74,
+      "stem": "Post-procedure care is required. After the draw, pressure is applied to the site until:",
+      "options": [
+       "The patient leaves",
+       "The label prints",
+       "Bleeding has stopped",
+       "Exactly two seconds pass"
+      ],
+      "answer": "C"
+     }
+    ]
+   },
+   {
+    "name": "Domain 4  •  Special Collections",
+    "questions": [
+     {
+      "n": 75,
+      "stem": "Cultures detect infection. Blood cultures are collected to detect:",
+      "options": [
+       "Microorganisms (bacteria) in the blood",
+       "Clotting factors",
+       "Cholesterol",
+       "Glucose levels"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 76,
+      "stem": "Culture prep is strict. A blood culture site is cleaned with:",
+      "options": [
+       "Alcohol only",
+       "Chlorhexidine or povidone-iodine (aseptic prep)",
+       "Sterile water",
+       "No preparation"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 77,
+      "stem": "Order still applies. In the order of draw, blood culture bottles are collected:",
+      "options": [
+       "Outside the order entirely",
+       "Last",
+       "In the middle",
+       "First"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 78,
+      "stem": "Metabolic screening is specialized. An inborn-error-of-metabolism (PKU) screen is collected on:",
+      "options": [
+       "A syringe",
+       "A filter-paper blood-spot card",
+       "A gray tube",
+       "A lavender tube"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 79,
+      "stem": "High-risk patients need calculations. To avoid iatrogenic anemia, blood drawn from a child in 24 hours should not exceed about:",
+      "options": [
+       "50% of the total blood volume",
+       "There is no limit",
+       "25% of the total blood volume",
+       "5% of the total blood volume"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 80,
+      "stem": "Smears aid diagnosis. A peripheral blood smear is used to:",
+      "options": [
+       "Examine blood cell morphology under a microscope",
+       "Only type the blood",
+       "Test urine",
+       "Measure glucose"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 81,
+      "stem": "Bedside testing is common. An advantage of point-of-care testing is:",
+      "options": [
+       "Rapid results at the patient's bedside",
+       "It always costs less",
+       "It replaces all laboratory testing",
+       "It requires no quality control"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 82,
+      "stem": "Urine collection has types. Two common types of urine collection are:",
+      "options": [
+       "Venous and arterial",
+       "Random and 24-hour (timed)",
+       "Aerobic and anaerobic",
+       "Fasting and postprandial"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 83,
+      "stem": "Home specimens are turned in. A sputum specimen originates from the:",
+      "options": [
+       "Bladder",
+       "Surface of the mouth only",
+       "Lower respiratory tract/lungs (deep cough)",
+       "Stomach"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 84,
+      "stem": "Some tests screen stool. An occult blood test looks for:",
+      "options": [
+       "Bacteria in the blood",
+       "Glucose in the urine",
+       "Blood type",
+       "Hidden blood in the stool"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 85,
+      "stem": "Throat infections are cultured. A specimen to test for streptococcal infection is obtained from the:",
+      "options": [
+       "Nose only",
+       "Ear canal",
+       "Fingertip",
+       "Throat (posterior pharynx and tonsils)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 86,
+      "stem": "Legal collections are special. For a legal blood alcohol level, the site is cleaned with:",
+      "options": [
+       "70% isopropyl alcohol",
+       "A non-alcohol antiseptic",
+       "Nothing at all",
+       "Alcohol-based iodine tincture"
+      ],
+      "answer": "B"
+     }
+    ]
+   },
+   {
+    "name": "Domain 5  •  Processing",
+    "questions": [
+     {
+      "n": 87,
+      "stem": "Specimen integrity is very important. Which of the following can affect specimen integrity?",
+      "options": [
+       "The provider's NPI number",
+       "Method of transport",
+       "Initials of the specimen collector",
+       "The accession number"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 88,
+      "stem": "SST tubes must clot. How long should a serum separator tube (SST) sit before being spun?",
+      "options": [
+       "About 5 minutes",
+       "About 30 minutes",
+       "No wait is needed",
+       "About 2 hours"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 89,
+      "stem": "Centrifugation separates blood. The two parts separated out for testing are:",
+      "options": [
+       "Serum/plasma and the cellular portion",
+       "Red and white tubes",
+       "Oxygen and carbon dioxide",
+       "Water and salt"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 90,
+      "stem": "Inversions serve a purpose. When inverting an additive tube, the phlebotomist is preventing:",
+      "options": [
+       "Lipemia",
+       "Hemolysis",
+       "Glycolysis",
+       "Clotting (ensuring the additive mixes)"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 91,
+      "stem": "Tubes are categorized. A tube with no additive or special requirement is called a:",
+      "options": [
+       "Chilled specimen tube",
+       "Plain (serum/red) tube",
+       "Culture bottle",
+       "Coagulation tube"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 92,
+      "stem": "Delays alter glucose. A glucose specimen left unspun too long will show:",
+      "options": [
+       "A falsely decreased glucose (glycolysis)",
+       "A clotted result",
+       "An unchanged glucose",
+       "A falsely increased glucose"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 93,
+      "stem": "Preservatives stop glycolysis. Glycolysis is inhibited by the additive in a gray tube:",
+      "options": [
+       "Sodium fluoride",
+       "Sodium citrate",
+       "EDTA",
+       "Heparin"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 94,
+      "stem": "Handling errors skew results. Hemolysis most significantly and falsely elevates:",
+      "options": [
+       "Sodium",
+       "Glucose",
+       "pH",
+       "Potassium"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 95,
+      "stem": "Some tests are transported chilled. Which specimen is transported on ice?",
+      "options": [
+       "CBC",
+       "Lipid panel",
+       "Arterial blood gas, ammonia, or lactic acid",
+       "Blood type"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 96,
+      "stem": "Light degrades some analytes. A specimen that must be protected from light is:",
+      "options": [
+       "CBC",
+       "Bilirubin",
+       "Glucose",
+       "Sodium"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 97,
+      "stem": "Labeling errors are serious. An unlabeled specimen received in the lab should be:",
+      "options": [
+       "Relabeled from memory",
+       "Run anyway",
+       "Rejected and recollected",
+       "Discarded without notice"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 98,
+      "stem": "Aliquots need identity. An aliquot must carry:",
+      "options": [
+       "A random number",
+       "No label",
+       "The same patient identifiers as the original specimen",
+       "Only the technician's initials"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 99,
+      "stem": "Critical results are urgent. A critical (panic) value must be:",
+      "options": [
+       "Mailed to the patient",
+       "Filed for later review",
+       "Reported immediately and documented",
+       "Ignored if from POCT"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 100,
+      "stem": "Errors cluster in one phase. Most laboratory errors occur in the:",
+      "options": [
+       "Analytical phase",
+       "Reporting phase",
+       "Pre-analytical phase",
+       "Post-analytical phase"
+      ],
+      "answer": "C"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "flash",
+  "title": "Phlebotomy Flashcard Test",
+  "subtitle": "Compiled from Quizlet study sets",
+  "free": false,
+  "sections": [
+   {
+    "name": "Set 1 — NHA Phlebotomy Practice Questions (2025-2026)",
+    "questions": [
+     {
+      "n": 1,
+      "stem": "A phlebotomy technician is using a point-of-care test system to determine a patient's WBC count. For which of the following results should the technician immediately notify the provider?",
+      "options": [
+       "1.8/mm3",
+       "11.0/mm3",
+       "7.5/mm3",
+       "9.2/mm3"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 2,
+      "stem": "A phlebotomy technician is preparing a peripheral blood smear from a patient's capillary blood. Which of the following actions should the technician take?",
+      "options": [
+       "Add EDTA to the drop before smearing.",
+       "Warm the slide before applying blood.",
+       "Use the second drop of blood that emerges from the puncture.",
+       "Use the very first drop of blood."
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 3,
+      "stem": "Which of the following is the best method for a phlebotomy technician to collect a blood specimen from an older adult patient who has fragile, easy-to-collapse veins?",
+      "options": [
+       "Perform an arterial puncture instead.",
+       "Use a large-bore straight needle with an evacuated tube.",
+       "Choose a syringe and butterfly assembly and transfer to an ETS tube.",
+       "Apply a very tight tourniquet for several minutes."
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 4,
+      "stem": "How frequently should a phlebotomy technician perform a quality control test on a glucometer in the laboratory?",
+      "options": [
+       "Every day the meter is used.",
+       "Every hour of the shift.",
+       "Once a month.",
+       "Only when results look abnormal."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 5,
+      "stem": "A phlebotomy technician is following the Clinical and Laboratory Standards Institute's (CLSI) clinical laboratory workflow pathway. As part of the postexamination phase of this process, which of the following actions should the technician take?",
+      "options": [
+       "Apply the tourniquet.",
+       "Collect the specimen from the patient.",
+       "Verify the test requisition.",
+       "Enter critical laboratory data."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 6,
+      "stem": "A phlebotomy technician should comply with HIPAA to protect which of the following?",
+      "options": [
+       "Hospital supplies",
+       "Patient's information",
+       "Laboratory equipment",
+       "Employee wages"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 7,
+      "stem": "Which of the following tubes should a phlebotomy technician collect first when obtaining dermal samples?",
+      "options": [
+       "Green",
+       "Lavender",
+       "Gray",
+       "Red"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 8,
+      "stem": "A phlebotomy technician is reviewing a laboratory requisition before obtaining blood specimens from a patient. The technician should verify that the requisition includes which of the following information?",
+      "options": [
+       "A specimen identification code",
+       "The phlebotomist's home address",
+       "The patient's next of kin",
+       "The insurance premium amount"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 9,
+      "stem": "A phlebotomy technician is preparing to collect a blood specimen from a patient who had a right-sided mastectomy. Which of the following sites should the technician select?",
+      "options": [
+       "A vein on the right hand",
+       "The right antecubital area",
+       "Median cubital vein in the right arm",
+       "Medial cubital vein in the left arm"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 10,
+      "stem": "For which of the following reasons should a phlebotomy technician centrifuge a serum specimen before transport to an outside reference laboratory?",
+      "options": [
+       "To add anticoagulant",
+       "Cells must be separated from the serum",
+       "To hemolyze the sample",
+       "To warm the specimen"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 11,
+      "stem": "Which of the following actions is a phlebotomy technician required to take before leaving a patient's room?",
+      "options": [
+       "Initial and mark the date and time on each tube drawn",
+       "Dispose of the requisition",
+       "Remove the patient's ID band",
+       "Leave the tubes unlabeled for the lab"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 12,
+      "stem": "A phlebotomy technician should identify that which of the following colors signifies a health hazard in the National Fire Protection Association (NFPA) 704 Marking System?",
+      "options": [
+       "Blue",
+       "Yellow",
+       "White",
+       "Red"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 13,
+      "stem": "A phlebotomy technician has a request to collect a routine CBC from a healthy 10-month-old infant. Which of the following collection sites should the technician select?",
+      "options": [
+       "Either heel",
+       "The big toe",
+       "The antecubital vein",
+       "The plantar arch"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 14,
+      "stem": "A phlebotomy technician is performing a total cholesterol point-of-care test for a patient. Which of the following findings should the technician immediately report to the provider?",
+      "options": [
+       "180 mg/dL",
+       "300 mg/dL",
+       "150 mg/dL",
+       "120 mg/dL"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 15,
+      "stem": "A phlebotomy technician is collecting a blood specimen from a patient to measure the trough level of a medication. The technician should collect the specimen at which of the following times?",
+      "options": [
+       "At the drug's peak",
+       "Within 1 min before the patient receives the next dose of medication",
+       "Any time during the infusion",
+       "30 min after the dose"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 16,
+      "stem": "According to OSHA standards, which of the following vaccines must employers offer to their phlebotomists at no cost?",
+      "options": [
+       "Influenza",
+       "Tetanus",
+       "Measles",
+       "Hepatitis B"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 17,
+      "stem": "Which of the following personal protective equipment provides a phlebotomy technician with the best protection when drawing blood from a patient who has active tuberculosis?",
+      "options": [
+       "Surgical mask",
+       "N95 respirator",
+       "Face shield",
+       "Gown"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 18,
+      "stem": "When collecting a routine blood sample, which of the following veins should a phlebotomy technician attempt to draw from first?",
+      "options": [
+       "Median cubital",
+       "Basilic",
+       "Cephalic",
+       "Dorsal hand"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 19,
+      "stem": "A phlebotomy technician is preparing to perform a venipuncture on a patient who states, \"I faint at the sight of blood.\" Which of the following positions is optimal for the patient's safety during the procedure?",
+      "options": [
+       "Lying in a reclined position",
+       "Standing at the counter",
+       "Bending forward",
+       "Sitting on a tall stool"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 20,
+      "stem": "A phlebotomy technician is collecting a blood specimen from a patient who has pneumonia. Besides gloves, which of the following pieces of personal protective equipment should the technician wear?",
+      "options": [
+       "Mask",
+       "Hair net",
+       "Nothing additional",
+       "Shoe covers"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 21,
+      "stem": "After placing a tourniquet on a patient's arm, a phlebotomy technician notices small red spots below the tourniquet. Which of the following terms describes these spots?",
+      "options": [
+       "Hematoma",
+       "Cyanosis",
+       "Edema",
+       "Petechiae"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 22,
+      "stem": "A phlebotomy technician is obtaining a blood specimen from a patient. The patient reports experiencing a sharp, painful, and tingling sensation going down her arm and into her hand. The technician should recognize that which of the following complications of venipuncture is occurring?",
+      "options": [
+       "Syncope",
+       "Hematoma",
+       "Nerve injury",
+       "Hemoconcentration"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 23,
+      "stem": "A phlebotomy technician should identify that which of the following is an identifier for a specimen as long as it remains in the laboratory?",
+      "options": [
+       "Accession number",
+       "Bed number",
+       "Phlebotomist's initials",
+       "Room number"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 24,
+      "stem": "A phlebotomy technician is educating a patient about the at-home collection of a semen specimen. Which of the following statements by the patient indicates an understanding of the procedure?",
+      "options": [
+       "\"I will bring it in whenever is convenient this week.\"",
+       "\"I will refrigerate the specimen overnight before bringing it in.\"",
+       "\"I will collect the specimen in a sterile container and return it to the lab within 1 hour.\"",
+       "\"I will collect it in any clean cup from home.\""
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 25,
+      "stem": "A phlebotomy technician is preparing to obtain a blood specimen from a patient for an erythrocyte sedimentation rate test. The technician should select a collection tube that has a top with which of the following colors?",
+      "options": [
+       "Gray",
+       "Light blue",
+       "Green",
+       "Lavender"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 26,
+      "stem": "A phlebotomy technician receives a chemical splash to his forearm. After removing his contaminated clothing, which of the following is the minimum amount of time the technician should rinse the affected area?",
+      "options": [
+       "15 min.",
+       "5 min.",
+       "30 sec.",
+       "1 min."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 27,
+      "stem": "A phlebotomy technician should identify that the order of draw for capillary collections is different from venipuncture for which of the following reasons?",
+      "options": [
+       "A decreased rate of coagulation",
+       "The lack of any additives",
+       "An increased rate of coagulation",
+       "The larger volume collected"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 28,
+      "stem": "According to standard precautions, a phlebotomy technician should take which of the following actions when shipping specimens to a reference laboratory in hot weather?",
+      "options": [
+       "Ship them at room temperature in an open box.",
+       "Freeze all specimens solid before shipping.",
+       "Place them near a heat source to stabilize.",
+       "Place the specimens in a box with cold packs and a biohazard label."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 29,
+      "stem": "A phlebotomy technician is collecting blood from a patient for donation. The collection bag only fills halfway, and the vein collapses. Which of the following actions should the technician take?",
+      "options": [
+       "Submit the partial unit as collected",
+       "Add saline to the bag to reach full volume",
+       "Use a new collection bag to draw a new unit of blood",
+       "Top off the same bag from the other arm"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 30,
+      "stem": "A phlebotomy technician is collecting a blood specimen from a patient. To avoid hemolysis, which of the following precautions should the technician take?",
+      "options": [
+       "Shake the tubes vigorously after collection",
+       "Draw slowly through a very small needle",
+       "Use an expired evacuated tube",
+       "Ensure the alcohol at the insertion site has dried"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 31,
+      "stem": "Which of the following sources for patient identification should a phlebotomy technician use in an inpatient setting?",
+      "options": [
+       "Verbal and wristband",
+       "Bed number alone",
+       "The nurse's memory",
+       "Room number and chart"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 32,
+      "stem": "A phlebotomy technician is using an evacuated needle holder and blood collection tubes to collect blood from a patient. Which of the following actions should the technician take?",
+      "options": [
+       "Push the tube in before the venipuncture",
+       "Fill the tube outside the holder",
+       "Remove the stopper before inserting the tube",
+       "Push the first collection tube gently into the holder"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 33,
+      "stem": "Which of the following actions should a phlebotomy technician take after collecting an ammonia specimen?",
+      "options": [
+       "Place the specimen tube in an ice-water slurry",
+       "Warm it to 37 C",
+       "Keep it at room temperature",
+       "Protect it from light only"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 34,
+      "stem": "When should a phlebotomy technician perform external liquid controls for quality control on a CLIA-waived glucose point-of-care test?",
+      "options": [
+       "Only after an abnormal result",
+       "When a new lot number or kit is opened",
+       "Only once per year",
+       "Never, for waived tests"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 35,
+      "stem": "A phlebotomy technician should select a tube that has which of the following anticoagulants to collect a sample for a PT/PTT test?",
+      "options": [
+       "Heparin",
+       "Sodium fluoride",
+       "EDTA",
+       "Sodium citrate"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 36,
+      "stem": "A phlebotomy technician has a requisition form for a series of tests on a patient's serum. The technician should select a collection tube that contains which of the following additives?",
+      "options": [
+       "Sodium citrate",
+       "Thrombin",
+       "EDTA",
+       "Potassium oxalate"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 37,
+      "stem": "A phlebotomy technician is preparing to draw blood from a patient's arm and observes a sore at the site where the tourniquet is to be placed. Which of the following actions should the technician take?",
+      "options": [
+       "Apply the tourniquet directly over the sore",
+       "Cancel the blood draw",
+       "Skip the tourniquet entirely",
+       "Tie the tourniquet over the patient's sleeve"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 38,
+      "stem": "A phlebotomy technician is preparing to collect a patient's troponin T level. Which of the following troponin T levels should the technician immediately report to the provider?",
+      "options": [
+       "0.02 ng/mL",
+       "0.00 ng/mL",
+       "0.3 ng/mL",
+       "0.01 ng/mL"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 39,
+      "stem": "A phlebotomy technician is preparing to perform a venipuncture for a 2-year-old child. The child asks if the blood draw will hurt. Which of the following statements should the technician make?",
+      "options": [
+       "\"It will not hurt at all.\"",
+       "\"It will hurt very badly.\"",
+       "\"Do not ask questions.\"",
+       "\"You will feel a small prick.\""
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 40,
+      "stem": "Which of the following actions should a phlebotomy technician take to locate a vein using the warming technique?",
+      "options": [
+       "Apply dry heat above 46 C.",
+       "Rub the site with alcohol repeatedly.",
+       "Encase the warm towel in a plastic bag.",
+       "Use an ice pack on the site."
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 41,
+      "stem": "A phlebotomy technician is preparing to collect a vancomycin peak level for a patient in an inpatient setting. Which of the following actions should the technician take prior to collecting the blood specimen?",
+      "options": [
+       "Collect the specimen before the dose",
+       "Skip verifying the dose time",
+       "Draw at any random time",
+       "Ask the attending nurse if the patient's vancomycin dose schedule is accurate"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 42,
+      "stem": "A phlebotomy technician is collecting a blood specimen from a patient who has cutaneous diphtheria. Besides gloves, which of the following pieces of personal protective equipment should the technician wear?",
+      "options": [
+       "Gown",
+       "Nothing additional",
+       "N95 respirator",
+       "Shoe covers"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 43,
+      "stem": "Prior to transport, which of the following specimens should a phlebotomy technician place in an ice bath within 30 min after collection?",
+      "options": [
+       "Arterial blood gas",
+       "Blood culture",
+       "Complete blood count",
+       "Lipid panel"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 44,
+      "stem": "A phlebotomy technician is removing his gloves after a venipuncture procedure. Which of the following actions should the technician take?",
+      "options": [
+       "Wash the gloves and keep them on",
+       "Remove the first glove so that it turns out during removal",
+       "Grasp the outside of the second glove with a bare hand",
+       "Reuse the gloves for the next patient"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 45,
+      "stem": "A phlebotomy technician has a requisition form to perform a chromosome analysis for a patient. The technician should select a collection tube that contains which of the following additives?",
+      "options": [
+       "EDTA",
+       "Thrombin",
+       "Heparin",
+       "Sodium citrate"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 46,
+      "stem": "A phlebotomy technician is preparing to obtain a blood specimen to determine a patient's sodium level. The technician should select a collection tube that has a top with which of the following colors?",
+      "options": [
+       "Gray",
+       "Light blue",
+       "Green",
+       "Lavender"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 47,
+      "stem": "A phlebotomy technician observes a hematoma developing at the site of a venous blood draw. Which of the following actions should the technician take?",
+      "options": [
+       "Advance the needle deeper",
+       "Tighten the tourniquet",
+       "Release the tourniquet and stop the draw",
+       "Continue and finish all tubes"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 48,
+      "stem": "A phlebotomy technician is applying a tourniquet prior to collecting a blood specimen from a patient. Which of the following actions should the technician take?",
+      "options": [
+       "Tuck a partial loop of tourniquet underneath the tourniquet",
+       "Tie it in a tight double knot",
+       "Leave it on for five minutes",
+       "Apply it on the wrist"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 49,
+      "stem": "A phlebotomy technician is collecting a blood specimen from a patient. Which of the following techniques should the technician use to anchor the vein just before inserting the needle?",
+      "options": [
+       "Press firmly above the puncture site.",
+       "Pinch the vein between two fingers.",
+       "Do not anchor the vein at all.",
+       "Use the thumb to anchor the vein 5 cm (2 in) below the puncture site."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 50,
+      "stem": "A phlebotomy technician is preparing to perform a fingerstick for a patient. Which of the following actions should the technician take first?",
+      "options": [
+       "Select the puncture site.",
+       "Apply the lancet.",
+       "Warm the finger.",
+       "Confirm the identity of the patient."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 51,
+      "stem": "A phlebotomy technician is performing a venipuncture for a patient who begins to seize. Which of the following actions should the technician take?",
+      "options": [
+       "Discontinue the draw",
+       "Place an object in the mouth",
+       "Restrain the patient's arm",
+       "Continue quickly to finish"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 52,
+      "stem": "A phlebotomy technician is preparing to collect a blood specimen from the antecubital site of a patient. Which of the following devices can be used to help stabilize the arm for the collection?",
+      "options": [
+       "Needle guard",
+       "Tube rack",
+       "Phlebotomy wedge",
+       "Tourniquet clamp"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 53,
+      "stem": "A phlebotomy technician is using a glucose monitor for point-of-care testing of a patient who has been fasting for 12hr. For which of the following results should the technician notify the provider?",
+      "options": [
+       "100 mg/dL",
+       "90 mg/dL",
+       "130 mg/dL",
+       "85 mg/dL"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 54,
+      "stem": "A phlebotomy technician has collected a blood specimen from a patient who is in an isolation room. Which of the following pieces of personal protection equipment (PPE) should the technician remove first?",
+      "options": [
+       "Goggles",
+       "Gloves",
+       "Gown",
+       "Mask"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 55,
+      "stem": "A phlebotomy technician is reviewing a laboratory test requisition form before obtaining blood specimens from a patient. Which of the following actions should the technician take prior to performing the venipuncture?",
+      "options": [
+       "Add tests the patient requests",
+       "Change the ordering provider",
+       "Check the requisition form for duplicate test orders",
+       "Discard the requisition"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 56,
+      "stem": "A provider has ordered a urine culture and sensitivity test. Which of the following types of urine collection should a phlebotomy technician obtain?",
+      "options": [
+       "Catheterized only",
+       "Clean-catch midstream",
+       "24-hour timed",
+       "First-morning random"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 57,
+      "stem": "A phlebotomy technician is preparing to obtain a blood specimen from a patient in an outpatient setting. Using standard precautions, which of the following pieces of personal protective equipment should the technician wear?",
+      "options": [
+       "Shoe covers",
+       "Full gown and goggles",
+       "Gloves",
+       "N95 respirator"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 58,
+      "stem": "A phlebotomy technician is disposing of used supplies when he accidentally receives a needlestick injury. According to OSHA guidelines, which of the following actions should the technician take first?",
+      "options": [
+       "Report to billing",
+       "Wash the puncture site with soap and water",
+       "Apply antibiotic ointment only",
+       "Finish the current draw"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 59,
+      "stem": "A phlebotomy technician is preparing several specimens for transport to the facility's laboratory. Which of the following specimens should the technician protect from bright light by placing it in an amber/brown biohazard bag for transport?",
+      "options": [
+       "Sodium",
+       "Glucose",
+       "Vitamin B6",
+       "Hemoglobin A1c"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 60,
+      "stem": "For which of the following procedures should a phlebotomy technician follow the chain of custody guidelines?",
+      "options": [
+       "Fasting glucose",
+       "Lipid panel",
+       "Routine CBC",
+       "Paternity testing"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 61,
+      "stem": "A phlebotomy technician is collecting a blood sample from a newborn who weighs 3 kg (6.6 lb). Which of the following amounts is the maximum volume of blood the technician can draw from the newborn at one time if the maximum allowable volume is 1%?",
+      "options": [
+       "10 mL",
+       "1 mL",
+       "30 mL",
+       "3 mL"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 62,
+      "stem": "A phlebotomy technician is collecting a urine specimen from a patient for a pre-employment drug test. Which of the following actions should the technician take?",
+      "options": [
+       "Skip the chain-of-custody form",
+       "Accept any small amount of urine",
+       "Allow the patient to collect it unobserved at home",
+       "Verify that the specimen contains at least 45 mL of urine"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 63,
+      "stem": "After verifying a patient's identity, a phlebotomy technician sees that the patient's laboratory results are ready. Which of the following actions should the technician take?",
+      "options": [
+       "Print the results and hand them over",
+       "Inform the patient to contact the ordering provider to obtain the results",
+       "Read the results aloud to the patient",
+       "Interpret the results for the patient"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 64,
+      "stem": "A phlebotomy technician is drawing a patient's blood when the patient states that she is becoming dizzy and light-headed. Which of the following actions should the technician take first?",
+      "options": [
+       "Remove the tourniquet and needle",
+       "Finish collecting all tubes first",
+       "Offer the patient food",
+       "Leave the room to get help"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 65,
+      "stem": "Which of the following actions should a phlebotomy technician take to maintain compliance with HIPAA?",
+      "options": [
+       "Discuss patients in the cafeteria",
+       "Email results without encryption",
+       "Clear phone numbers from the fax machine",
+       "Post patient names on a public board"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 66,
+      "stem": "A phlebotomy technician should identify that which of the following is the first step in the blood collection procedure?",
+      "options": [
+       "Test requisition",
+       "Needle insertion",
+       "Tourniquet application",
+       "Site cleansing"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 67,
+      "stem": "A phlebotomy technician is preparing to perform a blood draw on a patient who had a left-sided mastectomy and has an IV on her right side. In which of the following locations should the technician perform the draw?",
+      "options": [
+       "The left arm",
+       "Above the IV",
+       "Below the IV",
+       "Through the IV line"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 68,
+      "stem": "Which of the following collection tubes should a phlebotomy technician use when collecting for a routine chemistry test that requires serum?",
+      "options": [
+       "Lavender",
+       "Light blue",
+       "SST",
+       "Gray"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 69,
+      "stem": "After exiting a patient's room, which of the following is the last piece of personal protective equipment (PPE) a phlebotomy technician should remove?",
+      "options": [
+       "Shoe covers",
+       "Gloves",
+       "Mask",
+       "Gown"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 70,
+      "stem": "A phlebotomy technician uses alcohol to cleanse a venipuncture site. Before performing the venipuncture, the technician should allow the site to dry for which of the following reasons?",
+      "options": [
+       "To increase blood flow",
+       "To warm the site",
+       "Alcohol requires time for antiseptic action to take effect",
+       "To numb the skin"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 71,
+      "stem": "A phlebotomy technician is interviewing a patient before performing a venipuncture. During the interview, the patient states that he lives nearby and ran to the facility to \"get in some running time today.\" Which of the following precautionary actions should the technician take?",
+      "options": [
+       "Have the patient run in place first",
+       "Have the patient rest comfortably for at least 15 min before the venipuncture",
+       "Draw immediately while he is warm",
+       "Cancel the labs"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 72,
+      "stem": "For which of the following reasons should a phlebotomy technician examine the antecubital areas in both of a patient's arms?",
+      "options": [
+       "To warm both arms",
+       "The median cubital vein could be more accessible on one side than the other",
+       "To double the number of sticks",
+       "To compare skin color"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 73,
+      "stem": "A phlebotomy technician is preparing a patient for a routine venipuncture. Which of the following antiseptic solutions should the technician use?",
+      "options": [
+       "Chlorhexidine",
+       "Povidone-iodine",
+       "Isopropyl alcohol",
+       "Sterile water"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 74,
+      "stem": "A phlebotomy technician is preparing to collect a blood specimen from a small vein of an older adult patient. Which of the following actions should the technician take to keep the vein from collapsing?",
+      "options": [
+       "Use a small needle for the draw",
+       "Pump the plunger rapidly",
+       "Apply a very tight tourniquet",
+       "Use a large-bore needle"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 75,
+      "stem": "An unconscious patient is brought to the emergency department, and several blood tests are ordered. A phlebotomy technician should collect the patient's blood because he has received which of the following types of consent?",
+      "options": [
+       "Implied consent",
+       "Expressed consent",
+       "Written consent",
+       "Informed refusal"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 76,
+      "stem": "A phlebotomy technician is using the syringe method to obtain a blood culture specimen from an adult patient. Which of the following actions should the technician take?",
+      "options": [
+       "Reuse a non-sterile syringe",
+       "Skip skin antisepsis",
+       "Collect without gloves",
+       "Withdraw the blood into a sterile safety syringe"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 77,
+      "stem": "A phlebotomy technician is preparing to dispose of contaminated sharps. According to OSHA standards, which of the following actions should the technician take?",
+      "options": [
+       "Empty and reuse the container",
+       "Replace the sharps container when it is two-thirds full",
+       "Fill it completely to the top",
+       "Recap needles before disposal"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 78,
+      "stem": "A phlebotomy technician is assembling the equipment he will need for collecting donor units of blood. Which of the following needle sizes should the technician select?",
+      "options": [
+       "21-gauge",
+       "25-gauge",
+       "18-gauge",
+       "23-gauge"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 79,
+      "stem": "A phlebotomy technician is preparing to draw blood from a patient who has scabies. Which of the following pieces of personal protection equipment should the technician use?",
+      "options": [
+       "Face shield only",
+       "N95 respirator",
+       "Gown",
+       "Nothing additional"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 80,
+      "stem": "A phlebotomy technician is performing a venipuncture using a winged infusion set. The red-topped tube fills, but the light blue-topped tube slows and does not fill completely. Which of the following actions should the technician take?",
+      "options": [
+       "Add saline to the tube",
+       "Submit the underfilled tube",
+       "Shake the tube to fill it",
+       "Insert a new light blue-topped tube to see if it will fill"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 81,
+      "stem": "A phlebotomy technician should use a capillary collection instead of a venipuncture in which of the following situations?",
+      "options": [
+       "A large-volume specimen is required",
+       "A blood culture is ordered",
+       "A coagulation panel is ordered",
+       "A patient's veins are inaccessible"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 82,
+      "stem": "A phlebotomy technician is washing her hands at the beginning of her shift. Which of the following actions should the technician take?",
+      "options": [
+       "Skip soap if hands look clean",
+       "Use enough soap to form a lather",
+       "Dry hands on her scrubs",
+       "Rinse with hot scalding water only"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 83,
+      "stem": "A phlebotomy technician is preparing to collect a blood specimen from a patient who is allergic to alcohol. Which of the following antiseptic solutions should the technician use to prepare the insertion site?",
+      "options": [
+       "Ethyl alcohol",
+       "Isopropyl alcohol",
+       "Tincture of iodine with alcohol",
+       "Chlorhexidine"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 84,
+      "stem": "A phlebotomy technician is preparing to draw blood from a patient who states that this is his first blood draw. Which of the following actions should the technician take?",
+      "options": [
+       "Rush to finish quickly",
+       "Tell him it will not hurt at all",
+       "Skip any explanation",
+       "Describe the procedure to the patient"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 85,
+      "stem": "A phlebotomy technician is verifying a patient's identity before performing a venipuncture. Which of the following information should the technician request from the patient?",
+      "options": [
+       "The patient's full name and date of birth",
+       "The diagnosis",
+       "The room number",
+       "The insurance provider"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 86,
+      "stem": "A phlebotomy technician is preparing to enter a patient's room to collect a blood specimen. Which of the following actions should the technician plan to take?",
+      "options": [
+       "Begin drawing immediately",
+       "Enter without speaking",
+       "Announce the patient's diagnosis",
+       "Communicate name and department affiliation to the patient"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 87,
+      "stem": "A phlebotomy technician is selecting a site to collect a blood specimen from a patient. After applying a tourniquet, the technician sees no apparent vein to use for the venipuncture. Which of the following actions should the technician take?",
+      "options": [
+       "Have the patient dangle her arm for 1 to 2 min",
+       "Perform an arterial draw",
+       "Slap the arm firmly",
+       "Leave the tourniquet on for 5 min"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 88,
+      "stem": "A phlebotomy technician has a mild sensitivity to latex. According to the National Institute of Occupational Safety and Health (NIOSH), which of the following actions should the technician take?",
+      "options": [
+       "Double-glove with latex",
+       "Work without gloves",
+       "Wear nitrile gloves instead of latex gloves",
+       "Wear powdered latex gloves"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 89,
+      "stem": "A phlebotomy technician sees a coworker receive a major electrical shock from an instrument. Which of the following actions should the technician take first?",
+      "options": [
+       "Pull the coworker with bare hands",
+       "Shut off power to the instrument",
+       "Leave to find a supervisor",
+       "Pour water on the instrument"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 90,
+      "stem": "A phlebotomy technician is collecting blood specimens from a patient for multiple blood assays. The technician should fill the tube that has which of the following additives first?",
+      "options": [
+       "Sodium fluoride",
+       "Sodium citrate",
+       "EDTA",
+       "Heparin"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 91,
+      "stem": "A phlebotomy technician should identify that which of the following tube selections indicates the correct order of draw for a venipuncture?",
+      "options": [
+       "Lavender, green, gray",
+       "Gray, green, lavender",
+       "Green, lavender, gray",
+       "Gray, lavender, green"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 92,
+      "stem": "A phlebotomy technician should identify that which of the following phrases is represented by the abbreviation \"SD\"?",
+      "options": [
+       "Specimen delivery",
+       "Serum dilution",
+       "Standard deviation",
+       "Sample density"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 93,
+      "stem": "Which of the following is a potential consequence of a phlebotomy technician mislabeling a blood bank specimen?",
+      "options": [
+       "Improved accuracy",
+       "A transfusion reaction",
+       "A faster result",
+       "A lower test cost"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 94,
+      "stem": "For which of the following tests should a phlebotomy technician follow chain of custody guidelines?",
+      "options": [
+       "Hemoglobin A1c",
+       "Complete blood count",
+       "Blood alcohol",
+       "Basic metabolic panel"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 95,
+      "stem": "For an older adult patient who has difficult-to-access veins, a phlebotomy technician should select which of the following veins to perform a venipuncture?",
+      "options": [
+       "Basilic vein only",
+       "Dorsal veins",
+       "Femoral vein",
+       "Jugular vein"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 96,
+      "stem": "A phlebotomy technician should identify that which of the following series of venipuncture steps is in the appropriate order?",
+      "options": [
+       "Cleanse, assess, then label before insertion",
+       "Assess the site, cleanse the site, and insert the needle",
+       "Cleanse the site, insert the needle, assess the site",
+       "Insert the needle, assess the site, cleanse the site"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 97,
+      "stem": "Which of the following actions should a phlebotomy technician take when performing a venipuncture using an evacuated tube system?",
+      "options": [
+       "Position the needle at 45 degrees with the bevel down.",
+       "Insert perpendicular to the skin at 90 degrees.",
+       "Insert against the direction of the vein.",
+       "Position the needle at a 30-degree angle in the same direction as the vein and with the bevel up."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 98,
+      "stem": "A phlebotomy technician is collecting a blood specimen from a patient for blood cultures. Which of the following additives do the blood collection tubes require?",
+      "options": [
+       "Sodium polyanethol sulfonate",
+       "EDTA",
+       "Sodium fluoride",
+       "Sodium citrate"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 99,
+      "stem": "A phlebotomy technician should invert anticoagulant tubes to prevent which of the following complications?",
+      "options": [
+       "Icterus",
+       "Hemolysis",
+       "Lipemia",
+       "Glycolysis"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 100,
+      "stem": "A phlebotomy technician enters a patient's room to obtain a stat specimen. The patient's provider and a nurse are speaking with the patient. Which of the following actions should the technician take first?",
+      "options": [
+       "Leave and return much later",
+       "Draw without speaking to anyone",
+       "Introduce himself to the patient and the health care team members",
+       "Interrupt and begin the draw"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 101,
+      "stem": "A phlebotomy technician is performing a heelstick to obtain capillary blood for testing a newborn's bilirubin level. Which of the following actions should the technician take?",
+      "options": [
+       "Leave the sample uncovered",
+       "Use a clear tube in bright light",
+       "Use an amber-colored microcontainer",
+       "Warm the sample to 37 C"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 102,
+      "stem": "A provider orders a stat specimen, but a phlebotomy technician forgets to fill out the patient ID number on the collection tube. The technician should expect the laboratory that received the specimen to take which of the following actions?",
+      "options": [
+       "Reject the specimen",
+       "Relabel it from memory",
+       "Assign a random ID",
+       "Run it anyway"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 103,
+      "stem": "A phlebotomy technician should identify that which of the following is the total volume of blood of an infant who weighs 3.3 kg (7.3 lb)?",
+      "options": [
+       "500 to 600 mL",
+       "240 to 330 mL",
+       "1,000 to 1,200 mL",
+       "50 to 100 mL"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 104,
+      "stem": "For which of the following reasons should a phlebotomy technician avoid drawing blood from the leg or foot of a patient who has diabetes?",
+      "options": [
+       "It is more comfortable",
+       "These areas are more susceptible to infection",
+       "The veins are too large",
+       "It causes hemolysis"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 105,
+      "stem": "A phlebotomy technician is required to obtain which of the following from a potential blood donor?",
+      "options": [
+       "A coagulation panel",
+       "A fasting glucose result",
+       "Complete medical history",
+       "Only the donor's name"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 106,
+      "stem": "A phlebotomy technician is collecting a venipuncture blood specimen from a patient for a blood assay. The technician should fill which of the following tubes first?",
+      "options": [
+       "Green-topped tube",
+       "Gray-topped tube",
+       "Yellow-topped tube",
+       "Lavender-topped tube"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 107,
+      "stem": "Which of the following actions by a phlebotomy technician can result in a grossly hemolyzed specimen?",
+      "options": [
+       "Inverting tubes gently",
+       "Letting alcohol dry",
+       "Using an incorrect needle gauge",
+       "Filling tubes completely"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 108,
+      "stem": "For which of the following reasons should a phlebotomy technician document the total volume of blood drawn from a patient?",
+      "options": [
+       "To calculate the bill",
+       "To determine if the patient is at risk for developing iatrogenic anemia",
+       "To track supplies",
+       "To schedule the next draw"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 109,
+      "stem": "A phlebotomy technician is preparing to use an evacuated tube system to obtain a venous blood specimen from a patient. The tourniquet is in place and the technician has cleansed the puncture site. Which of the following procedural steps should the technician perform next?",
+      "options": [
+       "Insert the tube fully before the needle.",
+       "Uncap the needle and inspect it.",
+       "Remove the tourniquet before drawing.",
+       "Reapply alcohol to the dried site."
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 110,
+      "stem": "A phlebotomy technician is preparing to collect a blood specimen from a patient who signed a general informed consent form upon admission to the facility. Which of the following actions by the patient indicates implied consent for the venipuncture?",
+      "options": [
+       "Turning away and hiding the arm",
+       "Signing a second consent form",
+       "Rolling up his shirtsleeve",
+       "Verbally refusing the draw"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 111,
+      "stem": "A phlebotomy technician is planning to collect a sputum specimen from a patient. Which of the following instructions should the technician give the patient?",
+      "options": [
+       "Collect nasal drainage into the container.",
+       "Rinse the mouth with mouthwash and spit.",
+       "Spit saliva into the container.",
+       "Breathe deeply and then cough up a specimen into the container."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 112,
+      "stem": "To prevent hospital-acquired infections, a phlebotomy technician should clean items that have been contaminated by blood with a 1:10 dilution of which of the following substances and water?",
+      "options": [
+       "Povidone-iodine",
+       "Isopropyl alcohol",
+       "Hydrogen peroxide",
+       "Sodium hypochlorite"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 113,
+      "stem": "A phlebotomy technician should select a tube that has which of the following additives when collecting a blood specimen for a CBC?",
+      "options": [
+       "Sodium fluoride",
+       "Sodium citrate",
+       "EDTA",
+       "Heparin"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 114,
+      "stem": "Which of the following test results are affected when a phlebotomy technician uses povidone-iodine to cleanse a site for a dermal puncture?",
+      "options": [
+       "Sodium",
+       "Potassium",
+       "Calcium",
+       "Chloride"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 115,
+      "stem": "A phlebotomy technician should transport a semen sample at which of the following temperatures?",
+      "options": [
+       "Below freezing",
+       "20 to 22 C",
+       "36 to 38 C",
+       "0 to 4 C"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 116,
+      "stem": "A phlebotomy technician is preparing to draw blood from a patient in an inpatient setting. The patient extends his arm and turns his head away. This action by the patient is an example of which of the following types of consent?",
+      "options": [
+       "Informed refusal",
+       "Written consent",
+       "Implied consent",
+       "Expressed consent"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 117,
+      "stem": "A phlebotomy technician is transporting blood specimens to a laboratory. Which of the following actions should the technician take?",
+      "options": [
+       "Leave them on an open cart.",
+       "Hand-carry them uncovered.",
+       "Carry them loose in a pocket.",
+       "Place the specimens in a lockable container."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 118,
+      "stem": "A phlebotomy technician is preparing to draw a peak level for a medication that was administered orally to a patient. After verifying when the patient received the medication, how long should the technician wait prior to attempting the draw?",
+      "options": [
+       "12 hr after administration",
+       "Immediately after administration",
+       "30 min after administration",
+       "2 hr after administration"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 119,
+      "stem": "A phlebotomy technician is preparing to obtain a blood specimen from a patient for thyroid studies. The technician should select a collection tube that has a top with which of the following colors?",
+      "options": [
+       "Pink",
+       "Speckled",
+       "Light blue",
+       "Gray"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 120,
+      "stem": "A phlebotomy technician is collecting capillary blood drops on a filter paper card to screen a newborn for phenylketonuria. Which of the following actions should the technician take?",
+      "options": [
+       "Apply blood to the back of the card.",
+       "Smear the blood across the circles.",
+       "Layer multiple drops in one circle.",
+       "Apply blood to the printed side of the filter paper."
+      ],
+      "answer": "D"
+     }
+    ]
+   },
+   {
+    "name": "Set 2 — Chapter 8 Study Packet",
+    "questions": [
+     {
+      "n": 121,
+      "stem": "A request is given to draw a specimen from an inpatient by the name of John Doe. Which of the following is an acceptable way to confirm the patient's identity?",
+      "options": [
+       "Ask the patient, \"Are you Mr. John Doe?\" and see if he says \"Yes.\"",
+       "Check the patient's ID band and say, \"I see that you are John Doe.\"",
+       "Match the ID band and requisition with the patient's verbal statement of ID.",
+       "See if the ID band matches the requisition to be sure of the patient's identity."
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 122,
+      "stem": "The following tests have all been ordered at the same time on different inpatients. Only one phlebotomist is on duty. Which test should the phlebotomist collect first?",
+      "options": [
+       "ASAP CBC in the cardiac unit",
+       "Routine Hgb in long-term care",
+       "STAT electrolytes in the ER",
+       "Timed blood culture in ICU"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 123,
+      "stem": "Doing which of the following during the vein selection process is bad for the specimen?",
+      "options": [
+       "Allowing the patient to pump her fist",
+       "Lowering the patient's arm",
+       "Palpating the antecubital area",
+       "Using a warm towel to increase blood flow"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 124,
+      "stem": "Using which of the following communication strategies before obtaining a blood specimen from a child demonstrates poor technique?",
+      "options": [
+       "Establishing rapport with the child",
+       "Greeting the parent and the child",
+       "Telling the child it won't hurt",
+       "Telling the child what to expect"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 125,
+      "stem": "The patient is just finishing a big breakfast as the phlebotomist arrives to draw a fasting specimen. What should the phlebotomist do?",
+      "options": [
+       "Check with the patient's nurse to see if the specimen should still be collected.",
+       "Draw the specimen since breakfast was just eaten and probably not absorbed.",
+       "Draw the specimen, but write \"nonfasting\" on the lab requisition.",
+       "Refuse to collect the specimen and fill out an incident report slip."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 126,
+      "stem": "What may happen if you mix a specimen too vigorously?",
+      "options": [
+       "Glycolysis",
+       "Hemoconcentration",
+       "Hemolysis",
+       "Microclot formation"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 127,
+      "stem": "Never leave a tourniquet on for more than",
+      "options": [
+       "30 seconds.",
+       "1 minute.",
+       "2 minutes.",
+       "3 minutes."
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 128,
+      "stem": "How can you tell that you are in a vein when using a needle and a syringe?",
+      "options": [
+       "The blood will pump into the syringe under its own power.",
+       "There is no way to tell this when you use a needle and syringe.",
+       "You cannot tell until you pull back the plunger and see blood.",
+       "You will normally see blood appear in the hub of the needle."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 129,
+      "stem": "What is the most critical error a phlebotomist can make?",
+      "options": [
+       "Collecting a timed specimen late",
+       "Failing to collect a specimen",
+       "Giving a patient a hematoma",
+       "Misidentifying a patient specimen"
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 130,
+      "stem": "What is the best way for a newly trained phlebotomist to handle a venipuncture on a patient with needle phobia?",
+      "options": [
+       "Ask an experienced phlebotomist to do the draw.",
+       "Use a small gauge butterfly needle for the draw.",
+       "Have the patient lie down for the draw.",
+       "Tell the patient it will only hurt a little."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 131,
+      "stem": "What would be the system of choice to identify laboratory specimens from an unconscious, unidentified woman in the emergency room?",
+      "options": [
+       "Assign a name to the patient such as Jane Doe.",
+       "Assign a number to the patient until admitted.",
+       "Process the specimens after she is identified.",
+       "Use a three-part identification band and labels."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 132,
+      "stem": "The priority designation for a test request is based on all of the following EXCEPT",
+      "options": [
+       "age and gender.",
+       "diet restrictions.",
+       "patient condition.",
+       "timed collection."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 133,
+      "stem": "A phlebotomist arrives to draw a specimen from an inpatient. The patient's door is closed. What should the phlebotomist do?",
+      "options": [
+       "Knock softly, open it slowly, and ask permission to enter.",
+       "Knock softly and wait for someone to come to the door.",
+       "Leave to draw another patient and come back later.",
+       "Open the door and proceed directly into the room."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 134,
+      "stem": "The patient asks if the specimen about to be drawn is for a diabetes test. How should the question be answered?",
+      "options": [
+       "If the test is for glucose, say, \"Yes, it is.\"",
+       "Say, \"It's best to discuss that with the doctor.\"",
+       "Say, \"No,\" even if the test is for diabetes.",
+       "Tell the patient that you do not know."
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 135,
+      "stem": "An unconscious patient is not wearing an ID band. There is an ID band taped to the patient's IV pole with information that matches the requisition. What should the phlebotomist do?",
+      "options": [
+       "Call the laboratory supervisor and ask how to proceed.",
+       "Draw the specimen and fill out an incident report form.",
+       "Draw the specimen and then ask the nurse to ID the patient.",
+       "Only draw the specimen after an ID band has been applied."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 136,
+      "stem": "Which of the following is the job of a student phlebotomist?",
+      "options": [
+       "Explaining to the patient why a particular test was ordered",
+       "Letting the patient know that you are a student phlebotomist",
+       "Telling a patient what can happen if he or she refuses to be drawn",
+       "Telling the patient what disease or condition he or she might have"
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 137,
+      "stem": "An inpatient is sound asleep when the phlebotomist arrives to draw a blood specimen. What should the phlebotomist do?",
+      "options": [
+       "Draw the patient quickly before he or she wakes up.",
+       "Raise the head of the bed and shake the patient's arm.",
+       "Turn on a bright light and say patient's name loudly.",
+       "Wake the patient gently to avoid a startle reaction."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 138,
+      "stem": "The first step in the testing process begins when the",
+      "options": [
+       "laboratory technician receives the sample.",
+       "specimen is collected from the patient.",
+       "specimen is delivered to the laboratory.",
+       "test is ordered by the healthcare provider."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 139,
+      "stem": "If a venipuncture site is still bleeding after 5 minutes the phlebotomist should",
+      "options": [
+       "alert the patient's nurse or other healthcare provider.",
+       "bandage the site and come back to check on it later.",
+       "tell the patient to apply pressure for 15 minutes.",
+       "wrap an elastic bandage tightly around the site."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 140,
+      "stem": "What is the recommended angle of needle insertion for an antecubital vein and a hand vein, respectively?",
+      "options": [
+       "20 degrees or less for arm and hand",
+       "25 degrees or less, 15 degrees or less",
+       "30 degrees or less, 10 degrees or less",
+       "40 degrees or less, 20 degrees or less"
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 141,
+      "stem": "An elderly patient arrives at an outpatient clinic for a blood draw. He is accompanied by his daughter, who mentions that he is hard of hearing. How should the phlebotomist proceed?",
+      "options": [
+       "Address all questions directly to the patient's daughter.",
+       "Get close to the patient's face and speak very loudly.",
+       "Repeat every question and statement twice.",
+       "Speak distinctly in a normal tone of voice."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 142,
+      "stem": "A tourniquet used for venipuncture procedures should be",
+      "options": [
+       "applied 3 to 4 inches above the intended venipuncture site.",
+       "tight enough to slow venous flow, but not affect arterial flow.",
+       "snug, or slightly tight, but not uncomfortable to the patient.",
+       "All of the options are correct."
+      ],
+      "answer": "D"
+     },
+     {
+      "n": 143,
+      "stem": "A phlebotomist starts to perform a venipuncture. As the needle touches the skin, the patient moves his arm. The phlebotomist is startled and pulls the needle away from the arm. How should the phlebotomist proceed after apologizing to the patient?",
+      "options": [
+       "Anchor the vein, tell the patient not to move this time, and finish the draw.",
+       "Clean the site again, anchor the vein, and complete the venipuncture.",
+       "Replace the needle, clean the site, warn the patient, and finish the draw.",
+       "Take a break and ask another phlebotomist to collect the specimen."
+      ],
+      "answer": "C"
+     },
+     {
+      "n": 144,
+      "stem": "The phlebotomist has made two unsuccessful attempts to collect a fasting specimen from an outpatient. What should the phlebotomist do next?",
+      "options": [
+       "Ask another phlebotomist to collect the specimen.",
+       "Call a supervisor and ask permission to try again.",
+       "Make a third attempt on the patient's other arm.",
+       "Tell the patient to come back the next morning."
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 145,
+      "stem": "An additive tube should be mixed",
+      "options": [
+       "after the next tube is placed in the holder.",
+       "as soon as it is removed from the holder.",
+       "when all the tubes have been collected.",
+       "while the label is being put on the tube."
+      ],
+      "answer": "B"
+     },
+     {
+      "n": 146,
+      "stem": "The procedure of identifying a patient using the written requisition, arm band, and verbal confirmation is known as ______.",
+      "options": [
+       "Three-way identification",
+       "Chain of custody",
+       "Accession",
+       "Implied consent"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 147,
+      "stem": "A specimen that must be drawn immediately is called a _____.",
+      "options": [
+       "STAT",
+       "Routine",
+       "Timed",
+       "ASAP"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 148,
+      "stem": "A person with belonephobia has an irrational fear of __________ and ______________.",
+      "options": [
+       "Pins and needles",
+       "Blood and doctors",
+       "Heights and needles",
+       "Germs and hospitals"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 149,
+      "stem": "Hospice is a type of care for patients who are __________________ ___________.",
+      "options": [
+       "Terminally ill",
+       "Newly diagnosed",
+       "Fully recovered",
+       "Chronically stable"
+      ],
+      "answer": "A"
+     },
+     {
+      "n": 150,
+      "stem": "Folding the arm to apply pressure after venipuncture can disrupt _____________ _________ __________________ when the arm is lowered.",
+      "options": [
+       "Platelet plug formation",
+       "Arterial blood flow",
+       "The healing process",
+       "Capillary refill time"
+      ],
+      "answer": "A"
+     }
+    ]
+   }
+  ]
+ }
+]
