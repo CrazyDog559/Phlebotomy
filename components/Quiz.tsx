@@ -204,6 +204,11 @@ export default function Quiz({
                       {ans.confidence === "know" ? "Marked: know it" : "Marked: not sure"}
                     </span>
                   )}
+                  {f.explanation && (
+                    <p className="mt-2 border-t border-slate-200 pt-2 text-sm text-slate-500">
+                      {f.explanation}
+                    </p>
+                  )}
                 </div>
               );
             })}
@@ -346,10 +351,17 @@ export default function Quiz({
           </div>
 
           {revealed && (
-            <p className="mt-4 rounded-lg bg-slate-50 px-4 py-2 text-sm text-slate-600">
-              Correct answer: <span className="font-semibold">{q.answer}</span>.{" "}
-              {q.options[LETTERS.indexOf(q.answer)]}
-            </p>
+            <div className="mt-4 rounded-lg bg-slate-50 px-4 py-3 text-sm text-slate-600">
+              <p>
+                Correct answer: <span className="font-semibold">{q.answer}</span>.{" "}
+                {q.options[LETTERS.indexOf(q.answer)]}
+              </p>
+              {q.explanation && (
+                <p className="mt-2 border-t border-slate-200 pt-2 text-slate-600">
+                  {q.explanation}
+                </p>
+              )}
+            </div>
           )}
         </div>
 

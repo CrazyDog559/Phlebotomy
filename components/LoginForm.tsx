@@ -3,6 +3,7 @@
 import { Suspense, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
+import { dollars, PER_TEST_CENTS, BUNDLE_CENTS } from "@/lib/pricing";
 
 function LoginInner() {
   const [mode, setMode] = useState<"signin" | "signup">("signin");
@@ -56,8 +57,70 @@ function LoginInner() {
   }
 
   return (
-    <main className="mx-auto flex min-h-screen max-w-md flex-col items-center justify-center px-6">
-      <div className="w-full rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
+    <main className="mx-auto flex min-h-screen max-w-5xl flex-col items-center justify-center gap-10 px-6 py-12 lg:flex-row lg:items-start">
+      <div className="w-full max-w-md lg:mt-6">
+        <h2 className="text-xl font-bold text-slate-800">
+          Why sign in?
+        </h2>
+        <ul className="mt-4 space-y-3 text-slate-600">
+          <li className="flex gap-2">
+            <span className="text-brand">✓</span>
+            <span>550 realistic questions across 5 full-length NHA CPT practice exams.</span>
+          </li>
+          <li className="flex gap-2">
+            <span className="text-brand">✓</span>
+            <span>Every question comes with an explanation, not just the right letter.</span>
+          </li>
+          <li className="flex gap-2">
+            <span className="text-brand">✓</span>
+            <span>Your progress and answers are saved so you can pick up where you left off.</span>
+          </li>
+          <li className="flex gap-2">
+            <span className="text-brand">✓</span>
+            <span>The first test is free — additional tests are {dollars(PER_TEST_CENTS)} each, or {dollars(BUNDLE_CENTS)} for all 5.</span>
+          </li>
+        </ul>
+
+        <h3 className="mt-8 text-sm font-semibold uppercase tracking-wide text-slate-400">
+          Testimonials
+        </h3>
+        <div className="mt-3 grid gap-3 sm:grid-cols-2">
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
+            <p className="text-sm italic text-slate-600">
+              “These practice tests are exactly what I needed to feel ready
+              for exam day.”
+            </p>
+            <p className="mt-3 text-sm font-semibold text-slate-700">Andrew W.</p>
+            <p className="mt-1 text-xs text-slate-500">NHA CPT Certification Exam</p>
+            <p className="mt-2 text-sm">
+              <span className="rounded bg-emerald-100 px-1.5 py-0.5 text-xs font-semibold text-emerald-700">
+                PASS
+              </span>
+              <span className="ml-2 text-slate-600">Scaled score 437</span>
+            </p>
+          </div>
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
+            <p className="text-sm italic text-slate-600">
+              “Working through every question bank made the real test feel
+              familiar instead of stressful.”
+            </p>
+            <p className="mt-3 text-sm font-semibold text-slate-700">Avery U.</p>
+            <p className="mt-1 text-xs text-slate-500">NHA CPT Certification Exam</p>
+            <p className="mt-2 text-sm">
+              <span className="rounded bg-emerald-100 px-1.5 py-0.5 text-xs font-semibold text-emerald-700">
+                PASS
+              </span>
+              <span className="ml-2 text-slate-600">Scaled score 430</span>
+            </p>
+          </div>
+        </div>
+        <p className="mt-2 text-xs text-slate-400">
+          Paraphrased from two people who studied with these practice tests
+          before passing their exam.
+        </p>
+      </div>
+
+      <div className="w-full max-w-md rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
         <h1 className="text-center text-2xl font-bold text-brand">
           Phlebotomy Prep
         </h1>

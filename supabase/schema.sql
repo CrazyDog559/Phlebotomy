@@ -61,3 +61,20 @@ create policy "delete own progress"
 
 create index if not exists progress_user_test_idx
   on public.progress (user_id, test_id);
+
+-- 3) DONATIONS: one-time "support the developer" payments — unlock nothing,
+-- so they live outside the purchases table and a user can make several.
+create table if not exists public.donations (
+  id          uuid primary key default gen_random_uuid(),
+  user_id     uuid not null references auth.users (id) on delete cascade,
+  amount_cents integer not null,
+  stripe_session_id text unique,
+  created_at  timestamptz not null default now()
+);
+
+alter table public.donations enable row level security;
+
+drop policy if exists "read own donations" on public.donations;
+create policy "read own donations"
+  on public.donations for select
+  using (auth.uid() = user_id);

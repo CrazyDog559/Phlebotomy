@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { createClient } from "@supabase/supabase-js";
 import { stripe } from "@/lib/stripe";
+import { SUPPORT_ID } from "@/lib/pricing";
 
 export const runtime = "nodejs";
 
@@ -42,15 +43,29 @@ export async function POST(request: Request) {
 
     if (userId && testId && session.payment_status === "paid") {
       const supabase = admin();
-      const { error } = await supabase.from("purchases").upsert(
-        {
-          user_id: userId,
-          test_id: testId,
-          amount_cents: session.amount_total,
-          stripe_session_id: session.id
-        },
-        { onConflict: "user_id,test_id" }
-      );
+
+      // Support donations don't unlock anything and a user can make several,
+      // so they get their own table keyed by session id instead of the
+      // purchases table's one-row-per-(user, test) shape.
+      const { error } =
+        testId === SUPPORT_ID
+          ? await supabase.from("donations").upsert(
+              {
+                user_id: userId,
+                amount_cents: session.amount_total,
+                stripe_session_id: session.id
+              },
+              { onConflict: "stripe_session_id" }
+            )
+          : await supabase.from("purchases").upsert(
+              {
+                user_id: userId,
+                test_id: testId,
+                amount_cents: session.amount_total,
+                stripe_session_id: session.id
+              },
+              { onConflict: "user_id,test_id" }
+            );
       if (error) {
         // Return 500 so Stripe retries delivery.
         return NextResponse.json({ error: error.message }, { status: 500 });

@@ -7,6 +7,7 @@ export interface Question {
   stem: string;
   options: string[];
   answer: AnswerLetter;
+  explanation?: string;
 }
 
 export interface Section {
