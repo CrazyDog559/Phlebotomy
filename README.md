@@ -10,8 +10,7 @@ tracking, a Stripe paywall, and a study-friendly quiz runner (mark each question
   **Stripe Checkout**, and **Tailwind CSS**. Deploys to **Vercel**.
 - Google sign-in can be added later (the `/auth/callback` route is already included).
 
-> **New here?** Open **DEPLOY.md** — it walks you through every account, key, and
-> click needed to get this live. This README is the short version.
+## Fully public to show case how I can use my technical skills to study for other domains outside of engineering.  AI can help make test questions so easily to help study and I would like to share with everyone for free.  It is also hosted and paid so I could learn how to implement stripe and how to host on vercel.  
 
 ## What's inside
 
@@ -35,14 +34,6 @@ cp .env.local.example .env.local   # then fill in the values (see DEPLOY.md)
 npm run dev                         # http://localhost:3000
 ```
 
-You need a Supabase project and Stripe **test** keys before sign-in and payments
-will work locally. For local webhooks:
-
-```bash
-stripe listen --forward-to localhost:3000/api/stripe/webhook
-```
-
-Copy the `whsec_…` it prints into `STRIPE_WEBHOOK_SECRET`.
 
 ## Editing questions
 
