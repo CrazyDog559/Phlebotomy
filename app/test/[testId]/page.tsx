@@ -1,6 +1,7 @@
+import type { Metadata } from "next";
 import { redirect, notFound } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
-import { getTest, flatQuestions, limitSections, TESTS } from "@/lib/tests";
+import { getTest, questionCount, flatQuestions, limitSections, TESTS } from "@/lib/tests";
 import { hasAccess } from "@/lib/pricing";
 import Quiz, { type InitialProgress } from "@/components/Quiz";
 
@@ -9,6 +10,26 @@ export const dynamic = "force-dynamic";
 // Signed-out visitors can try this many questions of the first test before
 // being asked to sign in.
 const PREVIEW_QUESTION_LIMIT = 5;
+
+export function generateMetadata({
+  params
+}: {
+  params: { testId: string };
+}): Metadata {
+  const test = getTest(params.testId);
+  if (!test) return {};
+
+  return {
+    title: `${test.title} — ${questionCount(test)} Free Practice Questions`,
+    description: `${test.subtitle}. Practice ${questionCount(test)} NHA CPT-style questions with instant answers and explanations. ${
+      test.free ? "Try the first 5 questions free, no sign-up required." : "Sign in to unlock the full test."
+    }`,
+    alternates: { canonical: `/test/${test.id}` },
+    // Gated tests redirect signed-out visitors to /login, so keep them out
+    // of search results even if linked to from elsewhere.
+    robots: test.free ? { index: true, follow: true } : { index: false, follow: false }
+  };
+}
 
 export default async function TestPage({
   params

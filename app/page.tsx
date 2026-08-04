@@ -18,8 +18,28 @@ export default async function Home({
 
   // Logged-out landing page.
   if (!user) {
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: "Phlebotomy Prep",
+      url: siteUrl,
+      description:
+        "Practice tests for the NHA Certified Phlebotomy Technician (CPT) exam.",
+      potentialAction: {
+        "@type": "SearchAction",
+        target: `${siteUrl}/?q={search_term_string}`,
+        "query-input": "required name=search_term_string"
+      }
+    };
+
     return (
       <main className="mx-auto max-w-3xl px-6 py-20 text-center">
+        <script
+          type="application/ld+json"
+          // eslint-disable-next-line react/no-danger
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <h1 className="text-4xl font-extrabold tracking-tight text-brand">
           Phlebotomy Prep
         </h1>
