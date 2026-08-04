@@ -36,3 +36,17 @@ export function questionCount(t: Test): number {
 export function flatQuestions(t: Test): Question[] {
   return t.sections.flatMap((s) => s.questions);
 }
+
+// Truncate a test's sections to the first `limit` questions in display
+// order, preserving section grouping (used for the signed-out preview).
+export function limitSections(sections: Section[], limit: number): Section[] {
+  let remaining = limit;
+  const result: Section[] = [];
+  for (const s of sections) {
+    if (remaining <= 0) break;
+    const questions = s.questions.slice(0, remaining);
+    if (questions.length > 0) result.push({ ...s, questions });
+    remaining -= questions.length;
+  }
+  return result;
+}

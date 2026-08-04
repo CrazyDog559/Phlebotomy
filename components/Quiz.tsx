@@ -27,7 +27,7 @@ export default function Quiz({
   testId: string;
   title: string;
   subtitle: string;
-  userId: string;
+  userId: string | null;
   sections: Section[];
   total: number;
   initial: InitialProgress;
@@ -54,6 +54,7 @@ export default function Quiz({
   async function persist(n: number, patch: Ans) {
     const next = { ...(answers[n] ?? {}), ...patch };
     setAnswers((prev) => ({ ...prev, [n]: next }));
+    if (!userId) return; // Guest preview — nothing to save yet.
     await supabase.from("progress").upsert(
       {
         user_id: userId,
@@ -82,11 +83,13 @@ export default function Quiz({
 
   async function restart() {
     if (!confirm("Clear your answers for this test and start over?")) return;
-    await supabase
-      .from("progress")
-      .delete()
-      .eq("user_id", userId)
-      .eq("test_id", testId);
+    if (userId) {
+      await supabase
+        .from("progress")
+        .delete()
+        .eq("user_id", userId)
+        .eq("test_id", testId);
+    }
     setAnswers({});
     setIdx(0);
     setFinished(false);
@@ -253,6 +256,18 @@ export default function Quiz({
       </TopBar>
 
       <main className="mx-auto max-w-3xl px-6 py-6">
+        {!userId && (
+          <div className="mb-4 rounded-lg border border-brand/30 bg-brand-light px-4 py-3 text-sm text-brand-dark">
+            Free preview — questions 1–{flat.length} of {total}.{" "}
+            <Link
+              href={`/login?next=/test/${testId}`}
+              className="font-semibold underline"
+            >
+              Sign in
+            </Link>{" "}
+            to unlock the rest.
+          </div>
+        )}
         <div className="mb-3 flex items-center justify-between text-sm text-slate-500">
           <span>{subtitle}</span>
           <span>
@@ -354,23 +369,39 @@ export default function Quiz({
             >
               Next →
             </button>
-          ) : (
+          ) : userId ? (
             <button
               onClick={() => setFinished(true)}
               className="rounded-lg bg-emerald-600 px-5 py-2 font-semibold text-white hover:bg-emerald-700"
             >
               Finish &amp; see results
             </button>
+          ) : (
+            <Link
+              href={`/login?next=/test/${testId}`}
+              className="rounded-lg bg-emerald-600 px-5 py-2 font-semibold text-white hover:bg-emerald-700"
+            >
+              Sign in to continue →
+            </Link>
           )}
         </div>
 
         <div className="mt-4 text-center">
-          <button
-            onClick={() => setFinished(true)}
-            className="text-sm font-medium text-brand hover:underline"
-          >
-            Finish now &amp; see results
-          </button>
+          {userId ? (
+            <button
+              onClick={() => setFinished(true)}
+              className="text-sm font-medium text-brand hover:underline"
+            >
+              Finish now &amp; see results
+            </button>
+          ) : (
+            <Link
+              href={`/login?next=/test/${testId}`}
+              className="text-sm font-medium text-brand hover:underline"
+            >
+              Sign in to unlock the rest of this test →
+            </Link>
+          )}
         </div>
       </main>
     </div>

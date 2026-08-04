@@ -1,10 +1,14 @@
 import { redirect, notFound } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
-import { getTest, flatQuestions } from "@/lib/tests";
+import { getTest, flatQuestions, limitSections, TESTS } from "@/lib/tests";
 import { hasAccess } from "@/lib/pricing";
 import Quiz, { type InitialProgress } from "@/components/Quiz";
 
 export const dynamic = "force-dynamic";
+
+// Signed-out visitors can try this many questions of the first test before
+// being asked to sign in.
+const PREVIEW_QUESTION_LIMIT = 5;
 
 export default async function TestPage({
   params
@@ -18,7 +22,23 @@ export default async function TestPage({
   const {
     data: { user }
   } = await supabase.auth.getUser();
-  if (!user) redirect(`/login?next=/test/${params.testId}`);
+
+  if (!user) {
+    if (test.id !== TESTS[0].id || !test.free) {
+      redirect(`/login?next=/test/${params.testId}`);
+    }
+    return (
+      <Quiz
+        testId={test.id}
+        title={test.title}
+        subtitle={test.subtitle}
+        userId={null}
+        sections={limitSections(test.sections, PREVIEW_QUESTION_LIMIT)}
+        total={flatQuestions(test).length}
+        initial={{}}
+      />
+    );
+  }
 
   const { data: purchaseRows } = await supabase
     .from("purchases")
