@@ -30,10 +30,10 @@ export default async function Home({
           as you go or at the end.
         </p>
         <Link
-          href="/login"
+          href={`/test/${TESTS[0].id}`}
           className="mt-8 inline-block rounded-lg bg-brand px-6 py-3 font-semibold text-white shadow-sm transition hover:bg-brand-dark"
         >
-          Get started — first test free
+          Try 5 questions free — no sign-up
         </Link>
         <p className="mt-10 text-sm text-slate-500">
           5 practice tests · 550 questions · $2.50 each or $10 for all.
